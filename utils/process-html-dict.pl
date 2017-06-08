@@ -41,6 +41,9 @@ while(<>){
 		if ($content =~ /\d\. interj\. /) {
 			$cat = $cat.",I";
 		}
+		if ($content =~ /\d\. prep\. /) {
+			$cat = $cat.",S";
+		}
 		# evita V. Véase
 		if ($content =~/\d\. f\. V\. /) {
 			$cat = $cat."*";
