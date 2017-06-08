@@ -50,7 +50,7 @@ while(<>){
 		} else {
 			$cat =~ s/^,//;
 			#$lema =~ s/, / -/;
-			print "$lema=cat: $cat;source: DRAE;\n";	
+			print "$lema=cat: $cat;\n";	
 		}
 	}
 }
