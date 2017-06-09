@@ -1,6 +1,9 @@
+use utf8;
+use open ':encoding(utf8)';
+binmode(STDOUT, ":utf8");
 while(<>){
 	my $line = $_;
-	if ($line =~ /<span class="lemma">(.*)\.<\/span> (.*)<\/p>/) {
+	if ($line =~ /<span class="lemma">(.*[^.])<\/span> (.*)<\/p>/) {
 		my $lema = $1;
 		my $content = $2;
 		my $cat = "";
