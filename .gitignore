@@ -35,3 +35,5 @@ inc/
 /*.zip
 
 /tmp
+*.dict
+spanish_lt.txt
