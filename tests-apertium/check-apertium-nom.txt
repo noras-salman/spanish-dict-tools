@@ -1,0 +1,1287 @@
+APERTIUM: abad FORMES: NCFP000 abadesas NCFS000 abadesa NCMP000 abades NCMS000 abad abad__n
+SOFTCATA: abad FORMES: NCMP000 abades NCMS000 abad abril__n
+
+APERTIUM: abasto FORMES: NCMP000 abastos NCMS000 abasto abismo__n
+SOFTCATA: abasto FORMES: NCMS000 abasto BBVA__n
+
+APERTIUM: abonado FORMES: NCFP000 abonadas NCFS000 abonada NCMP000 abonados NCMS000 abonado abogad/o__n
+SOFTCATA: abonado FORMES: NCMP000 abonados NCMS000 abonado abismo__n
+
+APERTIUM: acelerador FORMES: NCFP000 aceleradoras NCFS000 aceleradora NCMP000 aceleradores NCMS000 acelerador señor__n
+SOFTCATA: acelerador FORMES: NCMP000 aceleradores NCMS000 acelerador abril__n
+
+APERTIUM: acusativo FORMES: NCFP000 acusativas NCFS000 acusativa NCMP000 acusativos NCMS000 acusativo abogad/o__n
+SOFTCATA: acusativo FORMES: NCMP000 acusativos NCMS000 acusativo abismo__n
+
+APERTIUM: adalid FORMES: NCCP000 adalides NCCS000 adalid albañil__n
+SOFTCATA: adalid FORMES: NCMP000 adalides NCMS000 adalid abril__n
+
+APERTIUM: aeróbic FORMES: NCMS000 aeróbic atletismo__n
+SOFTCATA: aeróbic FORMES: NCMP000 aeróbics NCMS000 aeróbic abismo__n
+
+APERTIUM: afro FORMES: NCCP000 afros NCCS000 afro accionista__n
+SOFTCATA: afro FORMES: NCMP000 afros NCMS000 afro abismo__n
+
+APERTIUM: aguardiente FORMES: NCFP000 aguardientes NCFS000 aguardiente abeja__n
+SOFTCATA: aguardiente FORMES: NCMP000 aguardientes NCMS000 aguardiente abismo__n
+
+APERTIUM: agujetas FORMES: NCFP000 agujetas afueras__n
+SOFTCATA: agujetas FORMES: NCFN000 agujetas ETS__n
+
+APERTIUM: aislador FORMES: NCMP000 aisladores NCMS000 aislador abril__n
+SOFTCATA: aislador FORMES: NCFP000 aisladoras NCFS000 aisladora NCMP000 aisladores NCMS000 aislador señor__n
+
+APERTIUM: albatros FORMES: NCFP000 albatrosas NCFS000 albatrosa NCMP000 albatroses NCMS000 albatros señor__n
+SOFTCATA: albatros FORMES: NCMN000 albatros IRPF__n
+
+APERTIUM: albañil FORMES: NCCP000 albañiles NCCS000 albañil albañil__n
+SOFTCATA: albañil FORMES: NCMP000 albañiles NCMS000 albañil abril__n
+
+APERTIUM: alcalde FORMES: NCFP000 alcaldesas NCFS000 alcaldesa NCMP000 alcaldes NCMS000 alcalde alcalde__n
+SOFTCATA: alcalde FORMES: NCMP000 alcaldes NCMS000 alcalde abismo__n
+
+APERTIUM: alero FORMES: NCMP000 aleros NCMS000 alero abismo__n
+SOFTCATA: alero FORMES: NCCP000 aleros NCCS000 alero accionista__n
+
+APERTIUM: almogávar FORMES: NCCP000 almogávares NCCS000 almogávar albañil__n
+SOFTCATA: almogávar FORMES: NCMP000 almogávares NCMS000 almogávar abril__n
+
+APERTIUM: almohade FORMES: NCCP000 almohades NCCS000 almohade accionista__n
+SOFTCATA: almohade FORMES: NCMP000 almohades NCMS000 almohade abismo__n
+
+APERTIUM: almorávide FORMES: NCCP000 almorávides NCCS000 almorávide accionista__n
+SOFTCATA: almorávide FORMES: NCMP000 almorávides NCMS000 almorávide abismo__n
+
+APERTIUM: alto FORMES: NCFP000 altas NCFS000 alta NCMP000 altos NCMS000 alto abogad/o__n
+SOFTCATA: alto FORMES: NCMP000 altos NCMS000 alto abismo__n
+
+APERTIUM: amado FORMES: NCFP000 amadoas NCFS000 amadoa NCMP000 amadoes NCMS000 amado señor__n
+SOFTCATA: amado FORMES: NCFP000 amadas NCFS000 amada NCMP000 amados NCMS000 amado abogad/o__n
+
+APERTIUM: amo FORMES: NCFP000 amas NCFS000 ama NCMP000 amos NCMS000 amo abogad/o__n
+SOFTCATA: amo FORMES: NCMP000 amos NCMS000 amo abismo__n
+
+APERTIUM: anacoreta FORMES: NCMP000 anacoretas NCMS000 anacoreta abismo__n
+SOFTCATA: anacoreta FORMES: NCFP000 anacoretas NCFS000 anacoreta abeja__n
+
+APERTIUM: anatema FORMES: NCFP000 anatemas NCFS000 anatema abeja__n
+SOFTCATA: anatema FORMES: NCMP000 anatemas NCMS000 anatema abismo__n
+
+APERTIUM: ancestro FORMES: NCCP000 ancestros NCCS000 ancestro accionista__n
+SOFTCATA: ancestro FORMES: NCMP000 ancestros NCMS000 ancestro abismo__n
+
+APERTIUM: antiguo FORMES: NCFP000 antiguas NCFS000 antigua NCMP000 antiguos NCMS000 antiguo abogad/o__n
+SOFTCATA: antiguo FORMES: NCMP000 antiguos NCMS000 antiguo abismo__n
+
+APERTIUM: anónimo FORMES: NCFP000 anónimas NCFS000 anónima NCMP000 anónimos NCMS000 anónimo abogad/o__n
+SOFTCATA: anónimo FORMES: NCMP000 anónimos NCMS000 anónimo abismo__n
+
+APERTIUM: aparcero FORMES: NCMP000 aparceros NCMS000 aparcero abismo__n
+SOFTCATA: aparcero FORMES: NCFP000 aparceras NCFS000 aparcera NCMP000 aparceros NCMS000 aparcero abogad/o__n
+
+APERTIUM: apóstrofe FORMES: NCCP000 apóstrofes NCCS000 apóstrofe accionista__n
+SOFTCATA: apóstrofe FORMES: NCMP000 apóstrofes NCMS000 apóstrofe abismo__n
+
+APERTIUM: archivador FORMES: NCMP000 archivadores NCMS000 archivador abril__n
+SOFTCATA: archivador FORMES: NCFP000 archivadoras NCFS000 archivadora NCMP000 archivadores NCMS000 archivador señor__n
+
+APERTIUM: argot FORMES: NCMP000 argots NCMS000 argot abismo__n
+SOFTCATA: argot FORMES: NCMP000 argotes NCMP000 argots NCMS000 argot club__n
+
+APERTIUM: arras FORMES: NCFP000 arras afueras__n
+SOFTCATA: arras FORMES: NCCP000 arras uds.__n
+
+APERTIUM: asistente FORMES: NCFP000 asistentas NCFS000 asistenta NCMP000 asistentes NCMS000 asistente asistent/e__n
+SOFTCATA: asistente FORMES: NCCP000 asistentes NCCS000 asistente accionista__n
+
+APERTIUM: asno FORMES: NCMP000 asnos NCMS000 asno abismo__n
+SOFTCATA: asno FORMES: NCFP000 asnas NCFS000 asna NCMP000 asnos NCMS000 asno abogad/o__n
+
+APERTIUM: aspirador FORMES: NCMP000 aspiradores NCMS000 aspirador abril__n
+SOFTCATA: aspirador FORMES: NCFP000 aspiradoras NCFS000 aspiradora NCMP000 aspiradores NCMS000 aspirador señor__n
+
+APERTIUM: asíndeton FORMES: NCMP000 asíndetos NCMS000 asíndeton asíndeto/n__n
+SOFTCATA: asíndeton FORMES: NCMP000 asíndetones NCMP000 asíndetons NCMS000 asíndeton club__n
+
+APERTIUM: atletismo FORMES: NCMS000 atletismo atletismo__n
+SOFTCATA: atletismo FORMES: NCMP000 atletismos NCMS000 atletismo abismo__n
+
+APERTIUM: atractivo FORMES: NCFP000 atractivas NCFS000 atractiva NCMP000 atractivos NCMS000 atractivo abogad/o__n
+SOFTCATA: atractivo FORMES: NCMP000 atractivos NCMS000 atractivo abismo__n
+
+APERTIUM: autónomo FORMES: NCFP000 autónomas NCFS000 autónoma NCMP000 autónomos NCMS000 autónomo abogad/o__n
+SOFTCATA: autónomo FORMES: NCMP000 autónomos NCMS000 autónomo abismo__n
+
+APERTIUM: avaro FORMES: NCMP000 avaros NCMS000 avaro abismo__n
+SOFTCATA: avaro FORMES: NCFP000 avaras NCFS000 avara NCMP000 avaros NCMS000 avaro abogad/o__n
+
+APERTIUM: aventurero FORMES: NCMP000 aventureros NCMS000 aventurero abismo__n
+SOFTCATA: aventurero FORMES: NCFP000 aventureras NCFS000 aventurera NCMP000 aventureros NCMS000 aventurero abogad/o__n
+
+APERTIUM: avestruz FORMES: NCFP000 avestruces NCFS000 avestruz actri/z__n
+SOFTCATA: avestruz FORMES: NCMP000 avestruces NCMS000 avestruz ajedre/z__n
+
+APERTIUM: azúcar FORMES: NCMP000 azúcares NCMS000 azúcar abril__n
+SOFTCATA: azúcar FORMES: NCCP000 azúcares NCCS000 azúcar albañil__n
+
+APERTIUM: b FORMES: NCFS000 b cuaresma__n
+SOFTCATA: b FORMES: NCFP000 bes NCFS000 b accesibilidad__n
+
+APERTIUM: babuino FORMES: NCMP000 babuinos NCMS000 babuino abismo__n
+SOFTCATA: babuino FORMES: NCFP000 babuinas NCFS000 babuina NCMP000 babuinos NCMS000 babuino abogad/o__n
+
+APERTIUM: bachiller FORMES: NCCP000 bachilleres NCCS000 bachiller albañil__n
+SOFTCATA: bachiller FORMES: NCMP000 bachilleres NCMS000 bachiller abril__n
+
+APERTIUM: baloncesto FORMES: NCMS000 baloncesto atletismo__n
+SOFTCATA: baloncesto FORMES: NCMP000 baloncestos NCMS000 baloncesto abismo__n
+
+APERTIUM: balonmano FORMES: NCMS000 balonmano atletismo__n
+SOFTCATA: balonmano FORMES: NCMP000 balonmanos NCMS000 balonmano abismo__n
+
+APERTIUM: balonvolea FORMES: NCMS000 balonvolea atletismo__n
+SOFTCATA: balonvolea FORMES: NCMP000 balonvoleas NCMS000 balonvolea abismo__n
+
+APERTIUM: barón FORMES: NCFP000 baronesas NCFS000 baronesa NCMP000 barones NCMS000 barón bar/ón__n
+SOFTCATA: barón FORMES: NCMP000 barones NCMS000 barón aluvi/ón__n
+
+APERTIUM: base FORMES: NCFP000 bases NCFS000 base abeja__n
+SOFTCATA: base FORMES: NCCP000 bases NCCS000 base accionista__n
+
+APERTIUM: basket FORMES: NCMS000 basket atletismo__n
+SOFTCATA: basket FORMES: NCMP000 baskets NCMS000 basket abismo__n
+
+APERTIUM: bastardo FORMES: NCFP000 bastardas NCFS000 bastarda NCMP000 bastardos NCMS000 bastardo abogad/o__n
+SOFTCATA: bastardo FORMES: NCMP000 bastardos NCMS000 bastardo abismo__n
+
+APERTIUM: batería FORMES: NCFP000 baterías NCFS000 batería abeja__n
+SOFTCATA: batería FORMES: NCCP000 baterías NCCS000 batería accionista__n
+
+APERTIUM: bañador FORMES: NCMP000 bañadores NCMS000 bañador abril__n
+SOFTCATA: bañador FORMES: NCFP000 bañadoras NCFS000 bañadora NCMP000 bañadores NCMS000 bañador señor__n
+
+APERTIUM: be FORMES: NCFP000 bes NCFS000 be abeja__n
+SOFTCATA: be FORMES: NCFS000 be BBC__n
+
+APERTIUM: bedel FORMES: NCFP000 bedelas NCFS000 bedela NCMP000 bedeles NCMS000 bedel señor__n
+SOFTCATA: bedel FORMES: NCCP000 bedeles NCCS000 bedel albañil__n
+
+APERTIUM: bereber FORMES: NCCP000 bereberes NCCS000 bereber albañil__n
+SOFTCATA: bereber FORMES: NCMP000 bereberes NCMS000 bereber abril__n
+
+APERTIUM: best-seller FORMES: NCMP000 best-sellers NCMS000 best-seller abismo__n
+SOFTCATA: best-seller FORMES: NCMP000 best-selleres NCMP000 best-sellers NCMS000 best-seller club__n
+
+APERTIUM: bestia FORMES: NCFP000 bestias NCFS000 bestia abeja__n
+SOFTCATA: bestia FORMES: NCCP000 bestias NCCS000 bestia accionista__n
+
+APERTIUM: bestiario FORMES: NCFP000 bestiarias NCFS000 bestiaria NCMP000 bestiarios NCMS000 bestiario abogad/o__n
+SOFTCATA: bestiario FORMES: NCMP000 bestiarios NCMS000 bestiario abismo__n
+
+APERTIUM: bioquímica FORMES: NCFS000 bioquímica cuaresma__n
+SOFTCATA: bioquímica FORMES: NCFP000 bioquímicas NCFS000 bioquímica abeja__n
+
+APERTIUM: blanco FORMES: NCMP000 blancos NCMS000 blanco abismo__n
+SOFTCATA: blanco FORMES: NCFP000 blancas NCFS000 blanca NCMP000 blancos NCMS000 blanco abogad/o__n
+
+APERTIUM: bobinado FORMES: NCMP000 bobinados NCMS000 bobinado abismo__n
+SOFTCATA: bobinado FORMES: NCFP000 bobinadas NCFS000 bobinada NCMP000 bobinados NCMS000 bobinado abogad/o__n
+
+APERTIUM: boj FORMES: NCMP000 bojes NCMS000 boj abril__n
+SOFTCATA: boj FORMES: NCMS000 boj BBVA__n
+
+APERTIUM: botellero FORMES: NCMP000 botelleros NCMS000 botellero abismo__n
+SOFTCATA: botellero FORMES: NCFP000 botelleras NCFS000 botellera NCMP000 botelleros NCMS000 botellero abogad/o__n
+
+APERTIUM: boxeo FORMES: NCMS000 boxeo atletismo__n
+SOFTCATA: boxeo FORMES: NCMP000 boxeos NCMS000 boxeo abismo__n
+
+APERTIUM: boyardo FORMES: NCFP000 boyardas NCFS000 boyarda NCMP000 boyardos NCMS000 boyardo abogad/o__n
+SOFTCATA: boyardo FORMES: NCMP000 boyardos NCMS000 boyardo abismo__n
+
+APERTIUM: buscador FORMES: NCMP000 buscadores NCMS000 buscador abril__n
+SOFTCATA: buscador FORMES: NCFP000 buscadoras NCFS000 buscadora NCMP000 buscadores NCMS000 buscador señor__n
+
+APERTIUM: buzo FORMES: NCCP000 buzos NCCS000 buzo accionista__n
+SOFTCATA: buzo FORMES: NCMP000 buzos NCMS000 buzo abismo__n
+
+APERTIUM: bádminton FORMES: NCMP000 bádmintons NCMS000 bádminton abismo__n
+SOFTCATA: bádminton FORMES: NCMS000 bádminton BBVA__n
+
+APERTIUM: béisbol FORMES: NCMS000 béisbol atletismo__n
+SOFTCATA: béisbol FORMES: NCMP000 béisboles NCMS000 béisbol abril__n
+
+APERTIUM: bóvido FORMES: NCMP000 bóvidos NCMS000 bóvido abismo__n
+SOFTCATA: bóvido FORMES: NCFP000 bóvidas NCFS000 bóvida NCMP000 bóvidos NCMS000 bóvido abogad/o__n
+
+APERTIUM: c FORMES: NCFS000 c cuaresma__n
+SOFTCATA: c FORMES: NCFP000 ces NCFS000 c accesibilidad__n
+
+APERTIUM: cabrito FORMES: NCMP000 cabritos NCMS000 cabrito abismo__n
+SOFTCATA: cabrito FORMES: NCFP000 cabritas NCFS000 cabrita NCMP000 cabritos NCMS000 cabrito abogad/o__n
+
+APERTIUM: cabrón FORMES: NCMP000 cabrones NCMS000 cabrón aluvi/ón__n
+SOFTCATA: cabrón FORMES: NCFP000 cabronas NCFS000 cabrona NCMP000 cabrones NCMS000 cabrón anfitri/ón__n
+
+APERTIUM: cacao FORMES: NCMS000 cacao atletismo__n
+SOFTCATA: cacao FORMES: NCMP000 cacaos NCMS000 cacao abismo__n
+
+APERTIUM: cadete FORMES: NCCP000 cadetes NCCS000 cadete accionista__n
+SOFTCATA: cadete FORMES: NCMP000 cadetes NCMS000 cadete abismo__n
+
+APERTIUM: calderilla FORMES: NCFS000 calderilla cuaresma__n
+SOFTCATA: calderilla FORMES: NCFP000 calderillas NCFS000 calderilla abeja__n
+
+APERTIUM: camaleón FORMES: NCMP000 camaleones NCMS000 camaleón aluvi/ón__n
+SOFTCATA: camaleón FORMES: NCFP000 camaleonas NCFS000 camaleona NCMP000 camaleones NCMS000 camaleón anfitri/ón__n
+
+APERTIUM: canalizador FORMES: NCFP000 canalizadoras NCFS000 canalizadora NCMP000 canalizadores NCMS000 canalizador señor__n
+SOFTCATA: canalizador FORMES: NCMP000 canalizadores NCMS000 canalizador abril__n
+
+APERTIUM: canciller FORMES: NCFP000 cancilleras NCFS000 cancillera NCMP000 cancilleres NCMS000 canciller señor__n
+SOFTCATA: canciller FORMES: NCMP000 cancilleres NCMS000 canciller abril__n
+
+APERTIUM: canguro FORMES: NCCP000 canguros NCCS000 canguro accionista__n
+SOFTCATA: canguro FORMES: NCMP000 canguros NCMS000 canguro abismo__n
+
+APERTIUM: capataz FORMES: NCMP000 capataces NCMS000 capataz ajedre/z__n
+SOFTCATA: capataz FORMES: NCCP000 capataces NCCS000 capataz aprendi/z__n
+
+APERTIUM: carabinero FORMES: NCMP000 carabineros NCMS000 carabinero abismo__n
+SOFTCATA: carabinero FORMES: NCFP000 carabineras NCFS000 carabinera NCMP000 carabineros NCMS000 carabinero abogad/o__n
+
+APERTIUM: carcamal FORMES: NCMP000 carcamales NCMS000 carcamal abril__n
+SOFTCATA: carcamal FORMES: NCCP000 carcamales NCCS000 carcamal albañil__n
+
+APERTIUM: carmelita FORMES: NCCP000 carmelitas NCCS000 carmelita accionista__n
+SOFTCATA: carmelita FORMES: NCFP000 carmelitas NCFS000 carmelita abeja__n
+
+APERTIUM: cascabel FORMES: NCMP000 cascabeles NCMS000 cascabel abril__n
+SOFTCATA: cascabel FORMES: NCCP000 cascabeles NCCS000 cascabel albañil__n
+
+APERTIUM: casete FORMES: NCMP000 casetes NCMS000 casete abismo__n
+SOFTCATA: casete FORMES: NCCP000 casetes NCCS000 casete accionista__n
+
+APERTIUM: cateto FORMES: NCMP000 catetos NCMS000 cateto abismo__n
+SOFTCATA: cateto FORMES: NCFP000 catetas NCFS000 cateta NCMP000 catetos NCMS000 cateto abogad/o__n
+
+APERTIUM: cava FORMES: NCMP000 cavas NCMS000 cava abismo__n
+SOFTCATA: cava FORMES: NCCP000 cavas NCCS000 cava accionista__n
+
+APERTIUM: cayado FORMES: NCMP000 cayados NCMS000 cayado abismo__n
+SOFTCATA: cayado FORMES: NCMP000 cayadoes NCMP000 cayados NCMS000 cayado club__n
+
+APERTIUM: cenador FORMES: NCMP000 cenadores NCMS000 cenador abril__n
+SOFTCATA: cenador FORMES: NCFP000 cenadoras NCFS000 cenadora NCMP000 cenadores NCMS000 cenador señor__n
+
+APERTIUM: centenario FORMES: NCMP000 centenarios NCMS000 centenario abismo__n
+SOFTCATA: centenario FORMES: NCFP000 centenarias NCFS000 centenaria NCMP000 centenarios NCMS000 centenario abogad/o__n
+
+APERTIUM: centinela FORMES: NCFP000 centinelas NCFS000 centinela abeja__n
+SOFTCATA: centinela FORMES: NCCP000 centinelas NCCS000 centinela accionista__n
+
+APERTIUM: centésimo FORMES: NCFP000 centésimas NCFS000 centésima NCMP000 centésimos NCMS000 centésimo abogad/o__n
+SOFTCATA: centésimo FORMES: NCMP000 centésimos NCMS000 centésimo abismo__n
+
+APERTIUM: cerdo FORMES: NCMP000 cerdos NCMS000 cerdo abismo__n
+SOFTCATA: cerdo FORMES: NCFP000 cerdas NCFS000 cerda NCMP000 cerdos NCMS000 cerdo abogad/o__n
+
+APERTIUM: chalán FORMES: NCFP000 chalanas NCFS000 chalana NCMP000 chalanes NCMS000 chalán alem/án__n
+SOFTCATA: chalán FORMES: NCMP000 chalanes NCMS000 chalán adem/án__n
+
+APERTIUM: chiita FORMES: NCCP000 chiitas NCCS000 chiita accionista__n
+SOFTCATA: chiita FORMES: NCCS000 chiita Il.__n
+
+APERTIUM: chinche FORMES: NCMP000 chinches NCMS000 chinche abismo__n
+SOFTCATA: chinche FORMES: NCFP000 chinches NCFS000 chinche abeja__n
+
+APERTIUM: cierzo FORMES: NCMS000 cierzo atletismo__n
+SOFTCATA: cierzo FORMES: NCMP000 cierzos NCMS000 cierzo abismo__n
+
+APERTIUM: civil FORMES: NCCP000 civiles NCCS000 civil albañil__n
+SOFTCATA: civil FORMES: NCMP000 civiles NCMS000 civil abril__n
+
+APERTIUM: club FORMES: NCMP000 clubes NCMP000 clubs NCMS000 club club__n
+SOFTCATA: club FORMES: NCMP000 clubes NCMP000 clubs NCMS000 club NCMS000 clube film__n
+
+APERTIUM: cobaya FORMES: NCMP000 cobayas NCMS000 cobaya abismo__n
+SOFTCATA: cobaya FORMES: NCCP000 cobayas NCCS000 cobaya accionista__n
+
+APERTIUM: colector FORMES: NCMP000 colectores NCMS000 colector abril__n
+SOFTCATA: colector FORMES: NCFP000 colectoras NCFS000 colectora NCMP000 colectores NCMS000 colector señor__n
+
+APERTIUM: colegial FORMES: NCCP000 colegiales NCCS000 colegial albañil__n
+SOFTCATA: colegial FORMES: NCFP000 colegialas NCFS000 colegiala NCMP000 colegiales NCMS000 colegial señor__n
+
+APERTIUM: colono FORMES: NCCP000 colonos NCCS000 colono accionista__n
+SOFTCATA: colono FORMES: NCMP000 colonos NCMS000 colono abismo__n
+
+APERTIUM: coma FORMES: NCMP000 comas NCMS000 coma abismo__n
+SOFTCATA: coma FORMES: NCCP000 comas NCCS000 coma accionista__n
+
+APERTIUM: cometa FORMES: NCMP000 cometas NCMS000 cometa abismo__n
+SOFTCATA: cometa FORMES: NCCP000 cometas NCCS000 cometa accionista__n
+
+APERTIUM: comidilla FORMES: NCFS000 comidilla cuaresma__n
+SOFTCATA: comidilla FORMES: NCFP000 comidillas NCFS000 comidilla abeja__n
+
+APERTIUM: comilla FORMES: NCFP000 comillas NCFS000 comilla abeja__n
+SOFTCATA: comilla FORMES: NCFS000 comilla BBC__n
+
+APERTIUM: comisario FORMES: NCFP000 comisarias NCFS000 comisaria NCMP000 comisarios NCMS000 comisario abogad/o__n
+SOFTCATA: comisario FORMES: NCCP000 comisarios NCCS000 comisario accionista__n
+
+APERTIUM: comparsa FORMES: NCFP000 comparsas NCFS000 comparsa abeja__n
+SOFTCATA: comparsa FORMES: NCCP000 comparsas NCCS000 comparsa accionista__n
+
+APERTIUM: componedor FORMES: NCFP000 componedoras NCFS000 componedora NCMP000 componedores NCMS000 componedor señor__n
+SOFTCATA: componedor FORMES: NCMP000 componedores NCMS000 componedor abril__n
+
+APERTIUM: comunicador FORMES: NCFP000 comunicadoras NCFS000 comunicadora NCMP000 comunicadores NCMS000 comunicador señor__n
+SOFTCATA: comunicador FORMES: NCMP000 comunicadores NCMS000 comunicador abril__n
+
+APERTIUM: conde FORMES: NCFP000 condesas NCFS000 condesa NCMP000 condes NCMS000 conde alcalde__n
+SOFTCATA: conde FORMES: NCMP000 condes NCMS000 conde abismo__n
+
+APERTIUM: conjuntivitis FORMES: NCFP000 conjuntivitis NCFS000 conjuntivitis Tm__n
+SOFTCATA: conjuntivitis FORMES: NCFN000 conjuntivitis ETS__n
+
+APERTIUM: conseller FORMES: NCFP000 conselleras NCFS000 consellera NCMP000 consellers NCMS000 conseller conseller__n
+SOFTCATA: conseller FORMES: NCMP000 conselleres NCMP000 consellers NCMS000 conseller club__n
+
+APERTIUM: contador FORMES: NCMP000 contadores NCMS000 contador abril__n
+SOFTCATA: contador FORMES: NCFP000 contadoras NCFS000 contadora NCMP000 contadores NCMS000 contador señor__n
+
+APERTIUM: container FORMES: NCMP000 containers NCMS000 container abismo__n
+SOFTCATA: container FORMES: NCMP000 containeres NCMP000 containers NCMS000 container club__n
+
+APERTIUM: contenedor FORMES: NCFP000 contenedoras NCFS000 contenedora NCMP000 contenedores NCMS000 contenedor señor__n
+SOFTCATA: contenedor FORMES: NCMP000 contenedores NCMS000 contenedor abril__n
+
+APERTIUM: contestador FORMES: NCFP000 contestadoras NCFS000 contestadora NCMP000 contestadores NCMS000 contestador señor__n
+SOFTCATA: contestador FORMES: NCMP000 contestadores NCMS000 contestador abril__n
+
+APERTIUM: continuum FORMES: NCMN000 continuum campus__n
+SOFTCATA: continuum FORMES: NCMP000 continuums NCMS000 continuum abismo__n
+
+APERTIUM: contracorriente FORMES: NCFS000 contracorriente cuaresma__n
+SOFTCATA: contracorriente FORMES: NCFP000 contracorrientes NCFS000 contracorriente abeja__n
+
+APERTIUM: contrarreloj FORMES: NCFN000 contrarreloj dosis__n
+SOFTCATA: contrarreloj FORMES: NCFP000 contrarrelojes NCFS000 contrarreloj accesibilidad__n
+
+APERTIUM: copiador FORMES: NCFP000 copiadoras NCFS000 copiadora NCMP000 copiadores NCMS000 copiador señor__n
+SOFTCATA: copiador FORMES: NCMP000 copiadores NCMS000 copiador abril__n
+
+APERTIUM: cordero FORMES: NCMP000 corderos NCMS000 cordero abismo__n
+SOFTCATA: cordero FORMES: NCFP000 corderas NCFS000 cordera NCMP000 corderos NCMS000 cordero abogad/o__n
+
+APERTIUM: coronel FORMES: NCCP000 coroneles NCCS000 coronel albañil__n
+SOFTCATA: coronel FORMES: NCMP000 coroneles NCMS000 coronel abril__n
+
+APERTIUM: cosechador FORMES: NCFP000 cosechadoras NCFS000 cosechadora NCMP000 cosechadores NCMS000 cosechador señor__n
+SOFTCATA: cosechador FORMES: NCMP000 cosechadores NCMS000 cosechador abril__n
+
+APERTIUM: cosmos FORMES: NCMN000 cosmos campus__n
+SOFTCATA: cosmos FORMES: NCMS000 cosmos BBVA__n
+
+APERTIUM: costalero FORMES: NCMP000 costaleros NCMS000 costalero abismo__n
+SOFTCATA: costalero FORMES: NCFP000 costaleras NCFS000 costalera NCMP000 costaleros NCMS000 costalero abogad/o__n
+
+APERTIUM: crepe FORMES: NCFP000 crepes NCFS000 crepe abeja__n
+SOFTCATA: crepe FORMES: NCMP000 crepes NCMS000 crepe abismo__n
+
+APERTIUM: crepé FORMES: NCMP000 crepés NCMS000 crepé abismo__n
+SOFTCATA: crepé FORMES: NCCP000 crepés NCCS000 crepé accionista__n
+
+APERTIUM: cristalero FORMES: NCFP000 cristaleras NCFS000 cristalera NCMP000 cristaleros NCMS000 cristalero abogad/o__n
+SOFTCATA: cristalero FORMES: NCMP000 cristaleros NCMS000 cristalero abismo__n
+
+APERTIUM: cross FORMES: NCMS000 cross atletismo__n
+SOFTCATA: cross FORMES: NCMP000 crosses NCMS000 cross abril__n
+
+APERTIUM: cruce FORMES: NCMP000 cruces NCMS000 cruce abismo__n
+SOFTCATA: cruce FORMES: NCMS000 cruce BBVA__n
+
+APERTIUM: cuaresma FORMES: NCFS000 cuaresma cuaresma__n
+SOFTCATA: cuaresma FORMES: NCFP000 cuaresmas NCFS000 cuaresma abeja__n
+
+APERTIUM: culpable FORMES: NCCP000 culpablees NCCS000 culpable albañil__n
+SOFTCATA: culpable FORMES: NCCP000 culpables NCCS000 culpable accionista__n
+
+APERTIUM: cámara FORMES: NCMP000 cámaras NCMS000 cámara abismo__n
+SOFTCATA: cámara FORMES: NCFP000 cámaras NCFS000 cámara abeja__n
+
+APERTIUM: d FORMES: NCFS000 d cuaresma__n
+SOFTCATA: d FORMES: NCFP000 des NCFS000 d accesibilidad__n
+
+APERTIUM: decatlón FORMES: NCMS000 decatlón atletismo__n
+SOFTCATA: decatlón FORMES: NCMP000 decatlones NCMS000 decatlón aluvi/ón__n
+
+APERTIUM: delantero FORMES: NCFP000 delanteras NCFS000 delantera NCMP000 delanteros NCMS000 delantero abogad/o__n
+SOFTCATA: delantero FORMES: NCMP000 delanteros NCMS000 delantero abismo__n
+
+APERTIUM: delta FORMES: NCFP000 deltas NCFS000 delta abeja__n
+SOFTCATA: delta FORMES: NCMP000 deltas NCMS000 delta abismo__n
+
+APERTIUM: denominador FORMES: NCFP000 denominadoras NCFS000 denominadora NCMP000 denominadores NCMS000 denominador señor__n
+SOFTCATA: denominador FORMES: NCMP000 denominadores NCMS000 denominador abril__n
+
+APERTIUM: depredador FORMES: NCFP000 depredadoras NCFS000 depredadora NCMP000 depredadores NCMS000 depredador señor__n
+SOFTCATA: depredador FORMES: NCMP000 depredadores NCMS000 depredador abril__n
+
+APERTIUM: dermis FORMES: NCFN000 dermis dosis__n
+SOFTCATA: dermis FORMES: NCFP000 dermises NCFS000 dermis accesibilidad__n
+
+APERTIUM: destilado FORMES: NCFP000 destiladas NCFS000 destilada NCMP000 destilados NCMS000 destilado abogad/o__n
+SOFTCATA: destilado FORMES: NCMP000 destilados NCMS000 destilado abismo__n
+
+APERTIUM: detector FORMES: NCFP000 detectoras NCFS000 detectora NCMP000 detectores NCMS000 detector señor__n
+SOFTCATA: detector FORMES: NCMP000 detectores NCMS000 detector abril__n
+
+APERTIUM: diablo FORMES: NCFP000 diablesas NCFS000 diablesa NCMP000 diablos NCMS000 diablo diabl/o__n
+SOFTCATA: diablo FORMES: NCMP000 diablos NCMS000 diablo abismo__n
+
+APERTIUM: dignidad FORMES: NCFP000 dignidads NCFS000 dignidad abeja__n
+SOFTCATA: dignidad FORMES: NCFP000 dignidades NCFS000 dignidad accesibilidad__n
+
+APERTIUM: directivo FORMES: NCFP000 directivas NCFS000 directiva NCMP000 directivos NCMS000 directivo abogad/o__n
+SOFTCATA: directivo FORMES: NCMP000 directivos NCMS000 directivo abismo__n
+
+APERTIUM: divisor FORMES: NCFP000 divisoras NCFS000 divisora NCMP000 divisores NCMS000 divisor señor__n
+SOFTCATA: divisor FORMES: NCMP000 divisores NCMS000 divisor abril__n
+
+APERTIUM: do FORMES: NCMS000 do atletismo__n
+SOFTCATA: do FORMES: NCMP000 dos NCMS000 do abismo__n
+
+APERTIUM: doble FORMES: NCMP000 dobles NCMS000 doble abismo__n
+SOFTCATA: doble FORMES: NCCP000 dobles NCCS000 doble accionista__n
+
+APERTIUM: dominó FORMES: NCMS000 dominó atletismo__n
+SOFTCATA: dominó FORMES: NCMP000 dominós NCMS000 dominó abismo__n
+
+APERTIUM: donatario FORMES: NCFP000 donatarias NCFS000 donataria NCMP000 donatarios NCMS000 donatario abogad/o__n
+SOFTCATA: donatario FORMES: NCMP000 donatarios NCMS000 donatario abismo__n
+
+APERTIUM: doping FORMES: NCMP000 dopings NCMS000 doping abismo__n
+SOFTCATA: doping FORMES: NCMS000 doping BBVA__n
+
+APERTIUM: dorsal FORMES: NCFP000 dorsals NCFS000 dorsal abeja__n
+SOFTCATA: dorsal FORMES: NCMP000 dorsales NCMS000 dorsal abril__n
+
+APERTIUM: dosel FORMES: NCMP000 dosels NCMS000 dosel abismo__n
+SOFTCATA: dosel FORMES: NCMP000 doseles NCMS000 dosel abril__n
+
+APERTIUM: dote FORMES: NCCP000 dotes NCCS000 dote accionista__n
+SOFTCATA: dote FORMES: NCFP000 dotes NCFS000 dote abeja__n
+
+APERTIUM: dramaturgo FORMES: NCMP000 dramaturgos NCMS000 dramaturgo abismo__n
+SOFTCATA: dramaturgo FORMES: NCFP000 dramaturgas NCFS000 dramaturga NCMP000 dramaturgos NCMS000 dramaturgo abogad/o__n
+
+APERTIUM: déspota FORMES: NCCP000 déspotas NCCS000 déspota accionista__n
+SOFTCATA: déspota FORMES: NCMP000 déspotas NCMS000 déspota abismo__n
+
+APERTIUM: ecuador FORMES: NCMP000 ecuadores NCMS000 ecuador abril__n
+SOFTCATA: ecuador FORMES: NCMS000 ecuador BBVA__n
+
+APERTIUM: edil FORMES: NCCP000 ediles NCCS000 edil albañil__n
+SOFTCATA: edil FORMES: NCMP000 ediles NCMS000 edil abril__n
+
+APERTIUM: ejecutivo FORMES: NCFP000 ejecutivas NCFS000 ejecutiva NCMP000 ejecutivos NCMS000 ejecutivo abogad/o__n
+SOFTCATA: ejecutivo FORMES: NCMP000 ejecutivos NCMS000 ejecutivo abismo__n
+
+APERTIUM: electrodoméstico FORMES: NCFP000 electrodomésticas NCFS000 electrodoméstica NCMP000 electrodomésticos NCMS000 electrodoméstico abogad/o__n
+SOFTCATA: electrodoméstico FORMES: NCMP000 electrodomésticos NCMS000 electrodoméstico abismo__n
+
+APERTIUM: electroquímica FORMES: NCFS000 electroquímica cuaresma__n
+SOFTCATA: electroquímica FORMES: NCFP000 electroquímicas NCFS000 electroquímica abeja__n
+
+APERTIUM: elevador FORMES: NCFP000 elevadoras NCFS000 elevadora NCMP000 elevadores NCMS000 elevador señor__n
+SOFTCATA: elevador FORMES: NCMP000 elevadores NCMS000 elevador abril__n
+
+APERTIUM: emisor FORMES: NCFP000 emisoras NCFS000 emisora NCMP000 emisores NCMS000 emisor señor__n
+SOFTCATA: emisor FORMES: NCMP000 emisores NCMS000 emisor abril__n
+
+APERTIUM: emperador FORMES: NCFP000 emperatrices NCFS000 emperatriz NCMP000 emperadores NCMS000 emperador empera/dor__n
+SOFTCATA: emperador FORMES: NCMP000 emperadores NCMS000 emperador abril__n
+
+APERTIUM: encefalitis FORMES: NCFP000 encefalitis NCFS000 encefalitis Tm__n
+SOFTCATA: encefalitis FORMES: NCFN000 encefalitis ETS__n
+
+APERTIUM: encomendero FORMES: NCFP000 encomenderas NCFS000 encomendera NCMP000 encomenderos NCMS000 encomendero abogad/o__n
+SOFTCATA: encomendero FORMES: NCMP000 encomenderos NCMS000 encomendero abismo__n
+
+APERTIUM: endecasílabo FORMES: NCFP000 endecasílabas NCFS000 endecasílaba NCMP000 endecasílabos NCMS000 endecasílabo abogad/o__n
+SOFTCATA: endecasílabo FORMES: NCMP000 endecasílabos NCMS000 endecasílabo abismo__n
+
+APERTIUM: entrepuente FORMES: NCMP000 entrepuentes NCMS000 entrepuente abismo__n
+SOFTCATA: entrepuente FORMES: NCCP000 entrepuentes NCCS000 entrepuente accionista__n
+
+APERTIUM: entretiempo FORMES: NCMN000 entretiempo campus__n
+SOFTCATA: entretiempo FORMES: NCMP000 entretiempos NCMS000 entretiempo abismo__n
+
+APERTIUM: equimosis FORMES: NCFP000 equimosis NCFS000 equimosis Tm__n
+SOFTCATA: equimosis FORMES: NCFN000 equimosis ETS__n
+
+APERTIUM: equivalente FORMES: NCCP000 equivalentes NCCS000 equivalente accionista__n
+SOFTCATA: equivalente FORMES: NCMP000 equivalentes NCMS000 equivalente abismo__n
+
+APERTIUM: escolar FORMES: NCCP000 escolares NCCS000 escolar albañil__n
+SOFTCATA: escolar FORMES: NCMP000 escolares NCMS000 escolar abril__n
+
+APERTIUM: escotoma FORMES: NCMP000 escotomas NCMS000 escotoma abismo__n
+SOFTCATA: escotoma FORMES: NCFP000 escotomas NCFS000 escotoma abeja__n
+
+APERTIUM: espantapájaros FORMES: NCCN000 espantapájaros gilipollas__n
+SOFTCATA: espantapájaros FORMES: NCMN000 espantapájaros IRPF__n
+
+APERTIUM: especiero FORMES: NCMP000 especieros NCMS000 especiero abismo__n
+SOFTCATA: especiero FORMES: NCFP000 especieras NCFS000 especiera NCMP000 especieros NCMS000 especiero abogad/o__n
+
+APERTIUM: este FORMES: NCMS000 este atletismo__n
+SOFTCATA: este FORMES: NCMP000 estes NCMS000 este abismo__n
+
+APERTIUM: estribor FORMES: NCMP000 estribores NCMS000 estribor abril__n
+SOFTCATA: estribor FORMES: NCFP000 estriboras NCFS000 estribora NCMP000 estribores NCMS000 estribor señor__n
+
+APERTIUM: eusquera FORMES: NCMS000 eusquera atletismo__n
+SOFTCATA: eusquera FORMES: NCMP000 eusqueras NCMS000 eusquera abismo__n
+
+APERTIUM: evaporador FORMES: NCMP000 evaporadores NCMS000 evaporador abril__n
+SOFTCATA: evaporador FORMES: NCFP000 evaporadoras NCFS000 evaporadora NCMP000 evaporadores NCMS000 evaporador señor__n
+
+APERTIUM: exprimidor FORMES: NCMP000 exprimidores NCMS000 exprimidor abril__n
+SOFTCATA: exprimidor FORMES: NCFP000 exprimidoras NCFS000 exprimidora NCMP000 exprimidores NCMS000 exprimidor señor__n
+
+APERTIUM: exterior FORMES: NCMP000 exteriores NCMS000 exterior abril__n
+SOFTCATA: exterior FORMES: NCCP000 exteriores NCCS000 exterior albañil__n
+
+APERTIUM: fa FORMES: NCMN000 fa campus__n
+SOFTCATA: fa FORMES: NCMP000 fas NCMS000 fa abismo__n
+
+APERTIUM: familiar FORMES: NCCP000 familiares NCCS000 familiar albañil__n
+SOFTCATA: familiar FORMES: NCMP000 familiares NCMS000 familiar abril__n
+
+APERTIUM: fanegada FORMES: NCFP000 fanegadaes NCFS000 fanegada accesibilidad__n
+SOFTCATA: fanegada FORMES: NCFP000 fanegadas NCFS000 fanegada abeja__n
+
+APERTIUM: faraón FORMES: NCMP000 faraones NCMS000 faraón aluvi/ón__n
+SOFTCATA: faraón FORMES: NCFP000 faraonas NCFS000 faraona NCMP000 faraones NCMS000 faraón anfitri/ón__n
+
+APERTIUM: ficus FORMES: NCMP000 ficus NCMS000 ficus CV__n
+SOFTCATA: ficus FORMES: NCMN000 ficus IRPF__n
+
+APERTIUM: fideicomisario FORMES: NCFP000 fideicomisarias NCFS000 fideicomisaria NCMP000 fideicomisarios NCMS000 fideicomisario abogad/o__n
+SOFTCATA: fideicomisario FORMES: NCMP000 fideicomisarios NCMS000 fideicomisario abismo__n
+
+APERTIUM: filial FORMES: NCFP000 filiales NCFS000 filial accesibilidad__n
+SOFTCATA: filial FORMES: NCCP000 filiales NCCS000 filial albañil__n
+
+APERTIUM: film FORMES: NCMP000 filmes NCMP000 films NCMS000 film NCMS000 filme film__n
+SOFTCATA: film FORMES: NCMP000 films NCMS000 film abismo__n
+
+APERTIUM: foniatra FORMES: NCCP000 foniatras NCCS000 foniatra accionista__n
+SOFTCATA: foniatra FORMES: NCFP000 foniatras NCFS000 foniatra abeja__n
+
+APERTIUM: formador FORMES: NCFP000 formadoras NCFS000 formadora NCMP000 formadores NCMS000 formador señor__n
+SOFTCATA: formador FORMES: NCMP000 formadores NCMS000 formador abril__n
+
+APERTIUM: fragor FORMES: NCMP000 fragors NCMS000 fragor abismo__n
+SOFTCATA: fragor FORMES: NCMP000 fragores NCMS000 fragor abril__n
+
+APERTIUM: francio FORMES: NCMN000 francio campus__n
+SOFTCATA: francio FORMES: NCMP000 francios NCMS000 francio abismo__n
+
+APERTIUM: fray FORMES: NCMS000 fray atletismo__n
+SOFTCATA: fray FORMES: NCMP000 frayes NCMS000 fray abril__n
+
+APERTIUM: frenesí FORMES: NCMP000 frenesís NCMS000 frenesí abismo__n
+SOFTCATA: frenesí FORMES: NCMP000 frenesíes NCMP000 frenesís NCMS000 frenesí club__n
+
+APERTIUM: fruto FORMES: NCMP000 frutos NCMS000 fruto abismo__n
+SOFTCATA: fruto FORMES: NCFP000 frutas NCFS000 fruta NCMP000 frutos NCMS000 fruto abogad/o__n
+
+APERTIUM: fucsia FORMES: NCFP000 fucsias NCFS000 fucsia abeja__n
+SOFTCATA: fucsia FORMES: NCCP000 fucsias NCCS000 fucsia accionista__n
+
+APERTIUM: fénix FORMES: NCMS000 fénix atletismo__n
+SOFTCATA: fénix FORMES: NCMP000 fénixs NCMS000 fénix abismo__n
+
+APERTIUM: fútbol FORMES: NCMS000 fútbol atletismo__n
+SOFTCATA: fútbol FORMES: NCMP000 fútboles NCMP000 fútbols NCMS000 fútbol club__n
+
+APERTIUM: gafa FORMES: NCFP000 gafas NCFS000 gafa abeja__n
+SOFTCATA: gafa FORMES: NCFS000 gafa BBC__n
+
+APERTIUM: gallinero FORMES: NCMP000 gallineros NCMS000 gallinero abismo__n
+SOFTCATA: gallinero FORMES: NCFP000 gallineras NCFS000 gallinera NCMP000 gallineros NCMS000 gallinero abogad/o__n
+
+APERTIUM: gamo FORMES: NCMP000 gamos NCMS000 gamo abismo__n
+SOFTCATA: gamo FORMES: NCCP000 gamos NCCS000 gamo accionista__n
+
+APERTIUM: gasoil FORMES: NCMS000 gasoil atletismo__n
+SOFTCATA: gasoil FORMES: NCMP000 gasoils NCMS000 gasoil abismo__n
+
+APERTIUM: general FORMES: NCCP000 generales NCCS000 general albañil__n
+SOFTCATA: general FORMES: NCFP000 generalas NCFS000 generala NCMP000 generales NCMS000 general señor__n
+
+APERTIUM: gladiador FORMES: NCFP000 gladiadoras NCFS000 gladiadora NCMP000 gladiadores NCMS000 gladiador señor__n
+SOFTCATA: gladiador FORMES: NCMP000 gladiadores NCMS000 gladiador abril__n
+
+APERTIUM: gobernante FORMES: NCFP000 gobernantas NCFS000 gobernanta NCMP000 gobernantes NCMS000 gobernante asistent/e__n
+SOFTCATA: gobernante FORMES: NCCP000 gobernantes NCCS000 gobernante accionista__n
+
+APERTIUM: golfo FORMES: NCMP000 golfos NCMS000 golfo abismo__n
+SOFTCATA: golfo FORMES: NCFP000 golfas NCFS000 golfa NCMP000 golfos NCMS000 golfo abogad/o__n
+
+APERTIUM: guardarropa FORMES: NCCP000 guardarropas NCCS000 guardarropa accionista__n
+SOFTCATA: guardarropa FORMES: NCMP000 guardarropas NCMS000 guardarropa abismo__n
+
+APERTIUM: guerrero FORMES: NCMP000 guerreros NCMS000 guerrero abismo__n
+SOFTCATA: guerrero FORMES: NCFP000 guerreras NCFS000 guerrera NCMP000 guerreros NCMS000 guerrero abogad/o__n
+
+APERTIUM: guía FORMES: NCFP000 guías NCFS000 guía abeja__n
+SOFTCATA: guía FORMES: NCCP000 guías NCCS000 guía accionista__n
+
+APERTIUM: génesis FORMES: NCCN000 génesis gilipollas__n
+SOFTCATA: génesis FORMES: NCFN000 génesis ETS__n
+
+APERTIUM: hall FORMES: NCMP000 halls NCMS000 hall abismo__n
+SOFTCATA: hall FORMES: NCMP000 halles NCMP000 halls NCMS000 hall club__n
+
+APERTIUM: hambre FORMES: NCMP000 hambres NCMS000 hambre abismo__n
+SOFTCATA: hambre FORMES: NCFP000 hambres NCFS000 hambre abeja__n
+
+APERTIUM: helio FORMES: NCMS000 helio atletismo__n
+SOFTCATA: helio FORMES: NCMP000 helios NCMS000 helio abismo__n
+
+APERTIUM: heroína FORMES: NCFN000 heroína dosis__n
+SOFTCATA: heroína FORMES: NCFP000 heroínas NCFS000 heroína abeja__n
+
+APERTIUM: heterosexual FORMES: NCCP000 heterosexuales NCCS000 heterosexual albañil__n
+SOFTCATA: heterosexual FORMES: NCMP000 heterosexuales NCMS000 heterosexual abril__n
+
+APERTIUM: hidalgo FORMES: NCMP000 hidalgos NCMS000 hidalgo abismo__n
+SOFTCATA: hidalgo FORMES: NCFP000 hidalgas NCFS000 hidalga NCMP000 hidalgos NCMS000 hidalgo abogad/o__n
+
+APERTIUM: himen FORMES: NCMP000 himenes NCMS000 himen abril__n
+SOFTCATA: himen FORMES: NCMP000 hímenes NCMS000 himen cr/imen__n
+
+APERTIUM: hipnosis FORMES: NCFP000 hipnosis NCFS000 hipnosis Tm__n
+SOFTCATA: hipnosis FORMES: NCFN000 hipnosis ETS__n
+
+APERTIUM: hockey FORMES: NCMN000 hockey campus__n
+SOFTCATA: hockey FORMES: NCMS000 hockey BBVA__n
+
+APERTIUM: huésped FORMES: NCFP000 huéspedas NCFS000 huéspeda NCMP000 huéspedes NCMS000 huésped señor__n
+SOFTCATA: huésped FORMES: NCMP000 huéspedes NCMS000 huésped abril__n
+
+APERTIUM: héroe FORMES: NCFP000 heroínas NCFS000 heroína NCMP000 héroes NCMS000 héroe h/éroe__n
+SOFTCATA: héroe FORMES: NCMP000 héroes NCMS000 héroe abismo__n
+
+APERTIUM: impar FORMES: NCCP000 impares NCCS000 impar albañil__n
+SOFTCATA: impar FORMES: NCMP000 impares NCMS000 impar abril__n
+
+APERTIUM: impresor FORMES: NCFP000 impresoras NCFS000 impresora NCMP000 impresores NCMS000 impresor señor__n
+SOFTCATA: impresor FORMES: NCMP000 impresores NCMS000 impresor abril__n
+
+APERTIUM: incomodo FORMES: NCFP000 incomodas NCFS000 incomoda NCMP000 incomodos NCMS000 incomodo abogad/o__n
+SOFTCATA: incomodo FORMES: NCMP000 incomodos NCMS000 incomodo abismo__n
+
+APERTIUM: inconsciente FORMES: NCMP000 inconscientes NCMS000 inconsciente abismo__n
+SOFTCATA: inconsciente FORMES: NCCP000 inconscientes NCCS000 inconsciente accionista__n
+
+APERTIUM: indicador FORMES: NCMP000 indicadores NCMS000 indicador abril__n
+SOFTCATA: indicador FORMES: NCFP000 indicadoras NCFS000 indicadora NCMP000 indicadores NCMS000 indicador señor__n
+
+APERTIUM: instrumental FORMES: NCMP000 instrumenales NCMS000 instrumenal abril__n
+SOFTCATA: instrumental FORMES: NCMP000 instrumentales NCMS000 instrumental abril__n
+
+APERTIUM: interior FORMES: NCMP000 interiores NCMS000 interior abril__n
+SOFTCATA: interior FORMES: NCCP000 interiores NCCS000 interior albañil__n
+
+APERTIUM: internet FORMES: NCMP000 internets NCMS000 internet abismo__n
+SOFTCATA: internet FORMES: NCFS000 internet BBC__n
+
+APERTIUM: islam FORMES: NCMS000 islam atletismo__n
+SOFTCATA: islam FORMES: NCMN000 islam IRPF__n
+
+APERTIUM: jaque FORMES: NCMS000 jaque atletismo__n
+SOFTCATA: jaque FORMES: NCMP000 jaques NCMS000 jaque abismo__n
+
+APERTIUM: jazz FORMES: NCMN000 jazz campus__n
+SOFTCATA: jazz FORMES: NCMP000 jazces NCMS000 jazz ajedre/z__n
+
+APERTIUM: jilguero FORMES: NCMP000 jilgueros NCMS000 jilguero abismo__n
+SOFTCATA: jilguero FORMES: NCFP000 jilgueras NCFS000 jilguera NCMP000 jilgueros NCMS000 jilguero abogad/o__n
+
+APERTIUM: joystick FORMES: NCMP000 joysticks NCMS000 joystick abismo__n
+SOFTCATA: joystick FORMES: NCMP000 joystickes NCMP000 joysticks NCMS000 joystick club__n
+
+APERTIUM: judío FORMES: NCFP000 judías NCFS000 judía NCMP000 judíos NCMS000 judío abogad/o__n
+SOFTCATA: judío FORMES: NCMP000 judíos NCMS000 judío abismo__n
+
+APERTIUM: karate FORMES: NCMS000 karate atletismo__n
+SOFTCATA: karate FORMES: NCMP000 karates NCMS000 karate abismo__n
+
+APERTIUM: krausismo FORMES: NCMS000 krausismo atletismo__n
+SOFTCATA: krausismo FORMES: NCMP000 krausismos NCMS000 krausismo abismo__n
+
+APERTIUM: lavandero FORMES: NCFP000 lavanderas NCFS000 lavandera NCMP000 lavanderos NCMS000 lavandero abogad/o__n
+SOFTCATA: lavandero FORMES: NCMP000 lavanderos NCMS000 lavandero abismo__n
+
+APERTIUM: lechón FORMES: NCMP000 lechones NCMS000 lechón aluvi/ón__n
+SOFTCATA: lechón FORMES: NCFP000 lechonas NCFS000 lechona NCMP000 lechones NCMS000 lechón anfitri/ón__n
+
+APERTIUM: lehendakari FORMES: NCCP000 lehendakaris NCCS000 lehendakari accionista__n
+SOFTCATA: lehendakari FORMES: NCMP000 lehendakaris NCMS000 lehendakari abismo__n
+
+APERTIUM: leitmotiv FORMES: NCMP000 leitmotivs NCMS000 leitmotiv abismo__n
+SOFTCATA: leitmotiv FORMES: NCMS000 leitmotiv BBVA__n
+
+APERTIUM: levita FORMES: NCCP000 levitas NCCS000 levita accionista__n
+SOFTCATA: levita FORMES: NCFP000 levitas NCFS000 levita abeja__n
+
+APERTIUM: limpiacristales FORMES: NCMN000 limpiacristales campus__n
+SOFTCATA: limpiacristales FORMES: NCCN000 limpiacristales ATS__n
+
+APERTIUM: linde FORMES: NCMP000 lindes NCMS000 linde abismo__n
+SOFTCATA: linde FORMES: NCCP000 lindes NCCS000 linde accionista__n
+
+APERTIUM: llavero FORMES: NCMP000 llaveros NCMS000 llavero abismo__n
+SOFTCATA: llavero FORMES: NCFP000 llaveras NCFS000 llavera NCMP000 llaveros NCMS000 llavero abogad/o__n
+
+APERTIUM: lobezno FORMES: NCMP000 lobeznos NCMS000 lobezno abismo__n
+SOFTCATA: lobezno FORMES: NCFP000 lobeznas NCFS000 lobezna NCMP000 lobeznos NCMS000 lobezno abogad/o__n
+
+APERTIUM: logo FORMES: NCMP000 logos NCMS000 logo abismo__n
+SOFTCATA: logo FORMES: NCMS000 logo BBVA__n
+
+APERTIUM: logopeda FORMES: NCCP000 logopedas NCCS000 logopeda accionista__n
+SOFTCATA: logopeda FORMES: NCFP000 logopedas NCFS000 logopeda abeja__n
+
+APERTIUM: líquido FORMES: NCMP000 líquidos NCMS000 líquido abismo__n
+SOFTCATA: líquido FORMES: NCFP000 líquidas NCFS000 líquida NCMP000 líquidos NCMS000 líquido abogad/o__n
+
+APERTIUM: macro FORMES: NCMP000 macros NCMS000 macro abismo__n
+SOFTCATA: macro FORMES: NCFP000 macros NCFS000 macro abeja__n
+
+APERTIUM: maderamen FORMES: NCMP000 maderamenes NCMS000 maderamen abril__n
+SOFTCATA: maderamen FORMES: NCMP000 maderámenes NCMS000 maderamen cert/amen__n
+
+APERTIUM: maletero FORMES: NCMP000 maleteros NCMS000 maletero abismo__n
+SOFTCATA: maletero FORMES: NCFP000 maleteras NCFS000 maletera NCMP000 maleteros NCMS000 maletero abogad/o__n
+
+APERTIUM: mambo FORMES: NCMS000 mambo atletismo__n
+SOFTCATA: mambo FORMES: NCMP000 mambos NCMS000 mambo abismo__n
+
+APERTIUM: manganeso FORMES: NCMS000 manganeso atletismo__n
+SOFTCATA: manganeso FORMES: NCMP000 manganesos NCMS000 manganeso abismo__n
+
+APERTIUM: marcador FORMES: NCMP000 marcadores NCMS000 marcador abril__n
+SOFTCATA: marcador FORMES: NCFP000 marcadoras NCFS000 marcadora NCMP000 marcadores NCMS000 marcador señor__n
+
+APERTIUM: material FORMES: NCMP000 materiales NCMS000 material abril__n
+SOFTCATA: material FORMES: NCMP000 materiales NCMP000 materials NCMS000 material club__n
+
+APERTIUM: mecánico FORMES: NCMP000 mecánicos NCMS000 mecánico abismo__n
+SOFTCATA: mecánico FORMES: NCFP000 mecánicas NCFS000 mecánica NCMP000 mecánicos NCMS000 mecánico abogad/o__n
+
+APERTIUM: menestral FORMES: NCMP000 menestrales NCMS000 menestral abril__n
+SOFTCATA: menestral FORMES: NCFP000 menestralas NCFS000 menestrala NCMP000 menestrales NCMS000 menestral señor__n
+
+APERTIUM: mercader FORMES: NCFP000 mercaderas NCFS000 mercadera NCMP000 mercaderes NCMS000 mercader señor__n
+SOFTCATA: mercader FORMES: NCMP000 mercaderes NCMS000 mercader abril__n
+
+APERTIUM: merendero FORMES: NCMP000 merenderos NCMS000 merendero abismo__n
+SOFTCATA: merendero FORMES: NCFP000 merenderas NCFS000 merendera NCMP000 merenderos NCMS000 merendero abogad/o__n
+
+APERTIUM: metafísico FORMES: NCFP000 metafísicas NCFS000 metafísica NCMP000 metafísicos NCMS000 metafísico abogad/o__n
+SOFTCATA: metafísico FORMES: NCMP000 metafísicos NCMS000 metafísico abismo__n
+
+APERTIUM: metropolitano FORMES: NCMP000 metropolitanos NCMS000 metropolitano abismo__n
+SOFTCATA: metropolitano FORMES: NCFP000 metropolitanas NCFS000 metropolitana NCMP000 metropolitanos NCMS000 metropolitano abogad/o__n
+
+APERTIUM: microchip FORMES: NCMP000 microchips NCMS000 microchip abismo__n
+SOFTCATA: microchip FORMES: NCMP000 microchipes NCMS000 microchip abril__n
+
+APERTIUM: microonda FORMES: NCFP000 microondas NCFS000 microonda abeja__n
+SOFTCATA: microonda FORMES: NCFS000 microonda BBC__n
+
+APERTIUM: miembro FORMES: NCCP000 miembros NCCS000 miembro accionista__n
+SOFTCATA: miembro FORMES: NCMP000 miembros NCMS000 miembro abismo__n
+
+APERTIUM: modelo FORMES: NCMP000 modelos NCMS000 modelo abismo__n
+SOFTCATA: modelo FORMES: NCCP000 modelos NCCS000 modelo accionista__n
+
+APERTIUM: modisto FORMES: NCFP000 modistas NCFS000 modista NCMP000 modistos NCMS000 modisto abogad/o__n
+SOFTCATA: modisto FORMES: NCMP000 modistos NCMS000 modisto abismo__n
+
+APERTIUM: monsieur FORMES: NCMP000 monsieurs NCMS000 monsieur abismo__n
+SOFTCATA: monsieur FORMES: NCMS000 monsieur BBVA__n
+
+APERTIUM: montante FORMES: NCMP000 montantes NCMS000 montante abismo__n
+SOFTCATA: montante FORMES: NCCP000 montantes NCCS000 montante accionista__n
+
+APERTIUM: moro FORMES: NCFP000 moras NCFS000 mora NCMP000 moros NCMS000 moro abogad/o__n
+SOFTCATA: moro FORMES: NCMP000 moros NCMS000 moro abismo__n
+
+APERTIUM: mosquetero FORMES: NCMP000 mosqueteros NCMS000 mosquetero abismo__n
+SOFTCATA: mosquetero FORMES: NCFP000 mosqueteras NCFS000 mosquetera NCMP000 mosqueteros NCMS000 mosquetero abogad/o__n
+
+APERTIUM: mostrador FORMES: NCMP000 mostradores NCMS000 mostrador abril__n
+SOFTCATA: mostrador FORMES: NCFP000 mostradoras NCFS000 mostradora NCMP000 mostradores NCMS000 mostrador señor__n
+
+APERTIUM: motocross FORMES: NCMS000 motocross atletismo__n
+SOFTCATA: motocross FORMES: NCMN000 motocross IRPF__n
+
+APERTIUM: motorismo FORMES: NCMS000 motorismo atletismo__n
+SOFTCATA: motorismo FORMES: NCMP000 motorismos NCMS000 motorismo abismo__n
+
+APERTIUM: moño FORMES: NCMP000 moños NCMS000 moño abismo__n
+SOFTCATA: moño FORMES: NCFP000 moñas NCFS000 moña NCMP000 moños NCMS000 moño abogad/o__n
+
+APERTIUM: mudo FORMES: NCFP000 mudas NCFS000 muda NCMP000 mudos NCMS000 mudo abogad/o__n
+SOFTCATA: mudo FORMES: NCMP000 mudos NCMS000 mudo abismo__n
+
+APERTIUM: mínimo FORMES: NCFP000 mínimas NCFS000 mínima NCMP000 mínimos NCMS000 mínimo abogad/o__n
+SOFTCATA: mínimo FORMES: NCMP000 mínimos NCMS000 mínimo abismo__n
+
+APERTIUM: míster FORMES: NCMP000 místers NCMS000 míster abismo__n
+SOFTCATA: míster FORMES: NCMS000 míster BBVA__n
+
+APERTIUM: músico FORMES: NCFP000 músicas NCFS000 música NCMP000 músicos NCMS000 músico abogad/o__n
+SOFTCATA: músico FORMES: NCMP000 músicos NCMS000 músico abismo__n
+
+APERTIUM: naranja FORMES: NCFP000 naranjas NCFS000 naranja abeja__n
+SOFTCATA: naranja FORMES: NCCP000 naranjas NCCS000 naranja accionista__n
+
+APERTIUM: natación FORMES: NCFP000 nataci/ón__nones NCFS000 nataci/ón__nón acci/ón__n
+SOFTCATA: natación FORMES: NCFP000 nataciones NCFS000 natación acci/ón__n
+
+APERTIUM: neocórtex FORMES: NCMN000 neocórtex campus__n
+SOFTCATA: neocórtex FORMES: NCMP000 neocórtexes NCMS000 neocórtex abril__n
+
+APERTIUM: neutrino FORMES: NCMS000 neutrino atletismo__n
+SOFTCATA: neutrino FORMES: NCMP000 neutrinos NCMS000 neutrino abismo__n
+
+APERTIUM: nomenclador FORMES: NCMP000 nomencladores NCMS000 nomenclador abril__n
+SOFTCATA: nomenclador FORMES: NCFP000 nomencladoras NCFS000 nomencladora NCMP000 nomencladores NCMS000 nomenclador señor__n
+
+APERTIUM: noroeste FORMES: NCMS000 noroeste atletismo__n
+SOFTCATA: noroeste FORMES: NCMP000 noroestes NCMS000 noroeste abismo__n
+
+APERTIUM: norte FORMES: NCMS000 norte atletismo__n
+SOFTCATA: norte FORMES: NCMP000 nortes NCMS000 norte abismo__n
+
+APERTIUM: notable FORMES: NCMP000 notables NCMS000 notable abismo__n
+SOFTCATA: notable FORMES: NCCP000 notables NCCS000 notable accionista__n
+
+APERTIUM: obrador FORMES: NCMP000 obradores NCMS000 obrador abril__n
+SOFTCATA: obrador FORMES: NCFP000 obradoras NCFS000 obradora NCMP000 obradores NCMS000 obrador señor__n
+
+APERTIUM: obús FORMES: NCMP000 obúses NCMS000 obús abril__n
+SOFTCATA: obús FORMES: NCMP000 obuses NCMS000 obús autob/ús__n
+
+APERTIUM: occidente FORMES: NCMS000 occidente atletismo__n
+SOFTCATA: occidente FORMES: NCMP000 occidentes NCMS000 occidente abismo__n
+
+APERTIUM: oeste FORMES: NCMS000 oeste atletismo__n
+SOFTCATA: oeste FORMES: NCMP000 oestes NCMS000 oeste abismo__n
+
+APERTIUM: oligarca FORMES: NCMP000 oligarcas NCMS000 oligarca abismo__n
+SOFTCATA: oligarca FORMES: NCCP000 oligarcas NCCS000 oligarca accionista__n
+
+APERTIUM: orfebre FORMES: NCMP000 orfebres NCMS000 orfebre abismo__n
+SOFTCATA: orfebre FORMES: NCCP000 orfebres NCCS000 orfebre accionista__n
+
+APERTIUM: oriente FORMES: NCMS000 oriente atletismo__n
+SOFTCATA: oriente FORMES: NCMP000 orientes NCMS000 oriente abismo__n
+
+APERTIUM: paleoceno FORMES: NCMP000 paleocenos NCMS000 paleoceno abismo__n
+SOFTCATA: paleoceno FORMES: NCFP000 paleocenas NCFS000 paleocena NCMP000 paleocenos NCMS000 paleoceno abogad/o__n
+
+APERTIUM: paleto FORMES: NCFP000 paletas NCFS000 paleta NCMP000 paletos NCMS000 paleto abogad/o__n
+SOFTCATA: paleto FORMES: NCMP000 paletos NCMS000 paleto abismo__n
+
+APERTIUM: palmarés FORMES: NCMN000 palmarés campus__n
+SOFTCATA: palmarés FORMES: NCMP000 palmareses NCMS000 palmarés cipr/és__n
+
+APERTIUM: palomo FORMES: NCFP000 palomas NCFS000 paloma NCMP000 palomos NCMS000 palomo abogad/o__n
+SOFTCATA: palomo FORMES: NCMP000 palomos NCMS000 palomo abismo__n
+
+APERTIUM: panda FORMES: NCMP000 pandas NCMS000 panda abismo__n
+SOFTCATA: panda FORMES: NCCP000 pandas NCCS000 panda accionista__n
+
+APERTIUM: paragüero FORMES: NCMP000 paragüeros NCMS000 paragüero abismo__n
+SOFTCATA: paragüero FORMES: NCFP000 paragüeras NCFS000 paragüera NCMP000 paragüeros NCMS000 paragüero abogad/o__n
+
+APERTIUM: parásito FORMES: NCMP000 parásitos NCMS000 parásito abismo__n
+SOFTCATA: parásito FORMES: NCFP000 parásitas NCFS000 parásita NCMP000 parásitos NCMS000 parásito abogad/o__n
+
+APERTIUM: pasamano FORMES: NCMP000 pasamanos NCMS000 pasamano abismo__n
+SOFTCATA: pasamano FORMES: NCMS000 pasamano BBVA__n
+
+APERTIUM: pato FORMES: NCCP000 patos NCCS000 pato accionista__n
+SOFTCATA: pato FORMES: NCFP000 patas NCFS000 pata NCMP000 patos NCMS000 pato abogad/o__n
+
+APERTIUM: patrono FORMES: NCFP000 patronas NCFS000 patrona NCMP000 patronos NCMS000 patrono abogad/o__n
+SOFTCATA: patrono FORMES: NCMP000 patronos NCMS000 patrono abismo__n
+
+APERTIUM: pavo FORMES: NCMP000 pavos NCMS000 pavo abismo__n
+SOFTCATA: pavo FORMES: NCFP000 pavas NCFS000 pava NCMP000 pavos NCMS000 pavo abogad/o__n
+
+APERTIUM: pe FORMES: NCFP000 pes NCFS000 pe abeja__n
+SOFTCATA: pe FORMES: NCFS000 pe BBC__n
+
+APERTIUM: peatón FORMES: NCCP000 peatones NCCS000 peatón peat/ón__n
+SOFTCATA: peatón FORMES: NCMP000 peatones NCMS000 peatón aluvi/ón__n
+
+APERTIUM: pederasta FORMES: NCMP000 pederastas NCMS000 pederasta abismo__n
+SOFTCATA: pederasta FORMES: NCCP000 pederastas NCCS000 pederasta accionista__n
+
+APERTIUM: pedicuro FORMES: NCFP000 pedicuras NCFS000 pedicura NCMP000 pedicuros NCMS000 pedicuro abogad/o__n
+SOFTCATA: pedicuro FORMES: NCMP000 pedicuros NCMS000 pedicuro abismo__n
+
+APERTIUM: pellejo FORMES: NCMP000 pellejos NCMS000 pellejo abismo__n
+SOFTCATA: pellejo FORMES: NCFP000 pellejas NCFS000 pelleja NCMP000 pellejos NCMS000 pellejo abogad/o__n
+
+APERTIUM: pentecostés FORMES: NCMP000 pentecosteses NCMS000 pentecostés cipr/és__n
+SOFTCATA: pentecostés FORMES: NCMN000 pentecostés IRPF__n
+
+APERTIUM: perchero FORMES: NCMP000 percheros NCMS000 perchero abismo__n
+SOFTCATA: perchero FORMES: NCFP000 percheras NCFS000 perchera NCMP000 percheros NCMS000 perchero abogad/o__n
+
+APERTIUM: perezoso FORMES: NCFP000 perezosas NCFS000 perezosa NCMP000 perezosos NCMS000 perezoso abogad/o__n
+SOFTCATA: perezoso FORMES: NCMP000 perezosos NCMS000 perezoso abismo__n
+
+APERTIUM: pericón FORMES: NCMP000 pericones NCMS000 pericón aluvi/ón__n
+SOFTCATA: pericón FORMES: NCFP000 periconas NCFS000 pericona NCMP000 pericones NCMS000 pericón anfitri/ón__n
+
+APERTIUM: periodo FORMES: NCMP000 periodos NCMP000 períodos NCMS000 periodo NCMS000 período per/iodo__n
+SOFTCATA: periodo FORMES: NCMP000 periodos NCMS000 periodo abismo__n
+
+APERTIUM: periquito FORMES: NCFP000 periquitas NCFS000 periquita NCMP000 periquitos NCMS000 periquito abogad/o__n
+SOFTCATA: periquito FORMES: NCMP000 periquitos NCMS000 periquito abismo__n
+
+APERTIUM: peón FORMES: NCFP000 peonas NCFS000 peona NCMP000 peones NCMS000 peón anfitri/ón__n
+SOFTCATA: peón FORMES: NCMP000 peones NCMS000 peón aluvi/ón__n
+
+APERTIUM: pichón FORMES: NCMP000 pichones NCMS000 pichón aluvi/ón__n
+SOFTCATA: pichón FORMES: NCFP000 pichonas NCFS000 pichona NCMP000 pichones NCMS000 pichón anfitri/ón__n
+
+APERTIUM: piloto FORMES: NCMP000 pilotos NCMS000 piloto abismo__n
+SOFTCATA: piloto FORMES: NCCP000 pilotos NCCS000 piloto accionista__n
+
+APERTIUM: piolet FORMES: NCMP000 pioletes NCMS000 piolet abril__n
+SOFTCATA: piolet FORMES: NCMP000 piolets NCMS000 piolet abismo__n
+
+APERTIUM: plancton FORMES: NCMP000 plánctones NCMS000 plancton pl/ancton__n
+SOFTCATA: plancton FORMES: NCMS000 plancton BBVA__n
+
+APERTIUM: platanero FORMES: NCMP000 plataneros NCMS000 platanero abismo__n
+SOFTCATA: platanero FORMES: NCFP000 plataneras NCFS000 platanera NCMP000 plataneros NCMS000 platanero abogad/o__n
+
+APERTIUM: poeta FORMES: NCCP000 poetas NCCS000 poeta accionista__n
+SOFTCATA: poeta FORMES: NCMP000 poetas NCMS000 poeta abismo__n
+
+APERTIUM: polisíndeton FORMES: NCMP000 polisíndetos NCMS000 polisíndeton asíndeto/n__n
+SOFTCATA: polisíndeton FORMES: NCMP000 polisíndetones NCMP000 polisíndetons NCMS000 polisíndeton club__n
+
+APERTIUM: pompis FORMES: NCMP000 pompis NCMS000 pompis CV__n
+SOFTCATA: pompis FORMES: NCMN000 pompis IRPF__n
+
+APERTIUM: precedente FORMES: NCCP000 precedentes NCCS000 precedente accionista__n
+SOFTCATA: precedente FORMES: NCMP000 precedentes NCMS000 precedente abismo__n
+
+APERTIUM: preso FORMES: NCFP000 presas NCFS000 presa NCMP000 presos NCMS000 preso abogad/o__n
+SOFTCATA: preso FORMES: NCMP000 presos NCMS000 preso abismo__n
+
+APERTIUM: probador FORMES: NCMP000 probadores NCMS000 probador abril__n
+SOFTCATA: probador FORMES: NCFP000 probadoras NCFS000 probadora NCMP000 probadores NCMS000 probador señor__n
+
+APERTIUM: procesado FORMES: NCMP000 procesados NCMS000 procesado abismo__n
+SOFTCATA: procesado FORMES: NCFP000 procesadas NCFS000 procesada NCMP000 procesados NCMS000 procesado abogad/o__n
+
+APERTIUM: príncipe FORMES: NCFP000 princesas NCFS000 princesa NCMP000 príncipes NCMS000 príncipe pr/íncipe__n
+SOFTCATA: príncipe FORMES: NCMP000 príncipes NCMS000 príncipe abismo__n
+
+APERTIUM: prójimo FORMES: NCMP000 prójimos NCMS000 prójimo abismo__n
+SOFTCATA: prójimo FORMES: NCFP000 prójimas NCFS000 prójima NCMP000 prójimos NCMS000 prójimo abogad/o__n
+
+APERTIUM: pudiente FORMES: NCMP000 pudientes NCMS000 pudiente abismo__n
+SOFTCATA: pudiente FORMES: NCCP000 pudientes NCCS000 pudiente accionista__n
+
+APERTIUM: pulsador FORMES: NCMP000 pulsadors NCMS000 pulsador abismo__n
+SOFTCATA: pulsador FORMES: NCMP000 pulsadores NCMS000 pulsador abril__n
+
+APERTIUM: punta FORMES: NCFP000 puntas NCFS000 punta abeja__n
+SOFTCATA: punta FORMES: NCCP000 puntas NCCS000 punta accionista__n
+
+APERTIUM: pus FORMES: NCMS000 pus atletismo__n
+SOFTCATA: pus FORMES: NCMP000 puses NCMS000 pus abril__n
+
+APERTIUM: puto FORMES: NCFP000 putas NCFS000 puta NCMP000 putos NCMS000 puto abogad/o__n
+SOFTCATA: puto FORMES: NCMP000 putos NCMS000 puto abismo__n
+
+APERTIUM: púrpura FORMES: NCFP000 púrpuras NCFS000 púrpura abeja__n
+SOFTCATA: púrpura FORMES: NCMP000 púrpuras NCMS000 púrpura abismo__n
+
+APERTIUM: quemazón FORMES: NCMP000 quemazones NCMS000 quemazón aluvi/ón__n
+SOFTCATA: quemazón FORMES: NCFP000 quemazones NCFS000 quemazón acci/ón__n
+
+APERTIUM: radiotransmisión FORMES: NCFP000 radiotransmisiónes NCFS000 radiotransmisión accesibilidad__n
+SOFTCATA: radiotransmisión FORMES: NCFP000 radiotransmisiones NCFS000 radiotransmisión acci/ón__n
+
+APERTIUM: radiotransmisor FORMES: NCMP000 radiotransmisors NCMS000 radiotransmisor abismo__n
+SOFTCATA: radiotransmisor FORMES: NCMP000 radiotransmisores NCMS000 radiotransmisor abril__n
+
+APERTIUM: rasero FORMES: NCMP000 raseros NCMS000 rasero abismo__n
+SOFTCATA: rasero FORMES: NCFP000 raseras NCFS000 rasera NCMP000 raseros NCMS000 rasero abogad/o__n
+
+APERTIUM: raster FORMES: NCMP000 rasters NCMS000 raster abismo__n
+SOFTCATA: raster FORMES: NCMP000 rasteres NCMS000 raster abril__n
+
+APERTIUM: ratio FORMES: NCFP000 ratios NCFS000 ratio abeja__n
+SOFTCATA: ratio FORMES: NCMP000 ratios NCMS000 ratio abismo__n
+
+APERTIUM: re FORMES: NCMN000 re campus__n
+SOFTCATA: re FORMES: NCMP000 res NCMS000 re abismo__n
+
+APERTIUM: recogepelotas FORMES: NCCN000 recogepelotas gilipollas__n
+SOFTCATA: recogepelotas FORMES: NCMN000 recogepelotas IRPF__n
+
+APERTIUM: referente FORMES: NCMP000 referentes NCMS000 referente abismo__n
+SOFTCATA: referente FORMES: NCCP000 referentes NCCS000 referente accionista__n
+
+APERTIUM: restante FORMES: NCCP000 restantes NCCS000 restante accionista__n
+SOFTCATA: restante FORMES: NCMP000 restantes NCMS000 restante abismo__n
+
+APERTIUM: retardador FORMES: NCMP000 retardadores NCMS000 retardador abril__n
+SOFTCATA: retardador FORMES: NCFP000 retardadoras NCFS000 retardadora NCMP000 retardadores NCMS000 retardador señor__n
+
+APERTIUM: retrovisor FORMES: NCMP000 retrovisores NCMS000 retrovisor abril__n
+SOFTCATA: retrovisor FORMES: NCFP000 retrovisoras NCFS000 retrovisora NCMP000 retrovisores NCMS000 retrovisor señor__n
+
+APERTIUM: rey FORMES: NCFP000 reinas NCFS000 reina NCMP000 reyes NCMS000 rey re/y__n
+SOFTCATA: rey FORMES: NCMP000 reyes NCMS000 rey abril__n
+
+APERTIUM: rock FORMES: NCMN000 rock campus__n
+SOFTCATA: rock FORMES: NCMP000 rocks NCMS000 rock abismo__n
+
+APERTIUM: rojo FORMES: NCFP000 rojas NCFS000 roja NCMP000 rojos NCMS000 rojo abogad/o__n
+SOFTCATA: rojo FORMES: NCMP000 rojos NCMS000 rojo abismo__n
+
+APERTIUM: rubéola FORMES: NCFP000 rubéolas NCFS000 rubéola abeja__n
+SOFTCATA: rubéola FORMES: NCFS000 rubéola BBC__n
+
+APERTIUM: sacerdote FORMES: NCFP000 sacerdotisas NCFS000 sacerdotisa NCMP000 sacerdotes NCMS000 sacerdote sacerdot/e__n
+SOFTCATA: sacerdote FORMES: NCMP000 sacerdotes NCMS000 sacerdote abismo__n
+
+APERTIUM: salvaje FORMES: NCCP000 salvajes NCCS000 salvaje accionista__n
+SOFTCATA: salvaje FORMES: NCMP000 salvajes NCMS000 salvaje abismo__n
+
+APERTIUM: sargento FORMES: NCCP000 sargentos NCCS000 sargento accionista__n
+SOFTCATA: sargento FORMES: NCFP000 sargentas NCFS000 sargenta NCMP000 sargentos NCMS000 sargento abogad/o__n
+
+APERTIUM: saxofón FORMES: NCMP000 saxofónes NCMS000 saxofón abril__n
+SOFTCATA: saxofón FORMES: NCMP000 saxofones NCMS000 saxofón aluvi/ón__n
+
+APERTIUM: sedante FORMES: NCMP000 sedantes NCMS000 sedante abismo__n
+SOFTCATA: sedante FORMES: NCCP000 sedantes NCCS000 sedante accionista__n
+
+APERTIUM: seo FORMES: NCFP000 seos NCFS000 seo abeja__n
+SOFTCATA: seo FORMES: NCCP000 seos NCCS000 seo accionista__n
+
+APERTIUM: seropositivo FORMES: NCFP000 seropositivas NCFS000 seropositiva NCMP000 seropositivos NCMS000 seropositivo abogad/o__n
+SOFTCATA: seropositivo FORMES: NCCP000 seropositivos NCCS000 seropositivo accionista__n
+
+APERTIUM: sexto FORMES: NCMP000 sextos NCMS000 sexto abismo__n
+SOFTCATA: sexto FORMES: NCFP000 sextas NCFS000 sexta NCMP000 sextos NCMS000 sexto abogad/o__n
+
+APERTIUM: señalizador FORMES: NCFP000 señalizadoras NCFS000 señalizadora NCMP000 señalizadores NCMS000 señalizador señor__n
+SOFTCATA: señalizador FORMES: NCMP000 señalizadores NCMS000 señalizador abril__n
+
+APERTIUM: simulador FORMES: NCFP000 simuladoras NCFS000 simuladora NCMP000 simuladores NCMS000 simulador señor__n
+SOFTCATA: simulador FORMES: NCMP000 simuladores NCMS000 simulador abril__n
+
+APERTIUM: single FORMES: NCCP000 singles NCCS000 single accionista__n
+SOFTCATA: single FORMES: NCMP000 singles NCMS000 single abismo__n
+
+APERTIUM: sinécdoque FORMES: NCFP000 sinécdoques NCFS000 sinécdoque abeja__n
+SOFTCATA: sinécdoque FORMES: NCMP000 sinécdoques NCMS000 sinécdoque abismo__n
+
+APERTIUM: sirviente FORMES: NCMP000 sirvientes NCMS000 sirviente abismo__n
+SOFTCATA: sirviente FORMES: NCFP000 sirvientas NCFS000 sirvienta NCMP000 sirvientes NCMS000 sirviente asistent/e__n
+
+APERTIUM: sobrante FORMES: NCCP000 sobrantes NCCS000 sobrante accionista__n
+SOFTCATA: sobrante FORMES: NCMP000 sobrantes NCMS000 sobrante abismo__n
+
+APERTIUM: sol FORMES: NCMP000 soles NCMS000 sol abril__n
+SOFTCATA: sol FORMES: NCMP000 soles NCMP000 sols NCMS000 sol club__n
+
+APERTIUM: solaz FORMES: NCMP000 solaces NCMS000 solaz ajedre/z__n
+SOFTCATA: solaz FORMES: NCFP000 solaces NCFS000 solaz actri/z__n
+
+APERTIUM: soldado FORMES: NCCP000 soldados NCCS000 soldado accionista__n
+SOFTCATA: soldado FORMES: NCMP000 soldados NCMS000 soldado abismo__n
+
+APERTIUM: son FORMES: NCMP000 sones NCMS000 son abril__n
+SOFTCATA: son FORMES: NCMP000 sones NCMP000 sons NCMS000 son club__n
+
+APERTIUM: subcontratista FORMES: NCCP000 subcontratistas NCCS000 subcontratista accionista__n
+SOFTCATA: subcontratista FORMES: NCMP000 subcontratistas NCMS000 subcontratista abismo__n
+
+APERTIUM: sudeste FORMES: NCMS000 sudeste NCMS000 sureste su/d__n
+SOFTCATA: sudeste FORMES: NCMP000 sudestes NCMS000 sudeste abismo__n
+
+APERTIUM: superusuario FORMES: NCFP000 superusuarias NCFS000 superusuaria NCMP000 superusuarios NCMS000 superusuario abogad/o__n
+SOFTCATA: superusuario FORMES: NCMP000 superusuarios NCMS000 superusuario abismo__n
+
+APERTIUM: sur FORMES: NCMS000 sur atletismo__n
+SOFTCATA: sur FORMES: NCMP000 sures NCMS000 sur abril__n
+
+APERTIUM: suroeste FORMES: NCMS000 sudoeste NCMS000 suroeste su/ro__n
+SOFTCATA: suroeste FORMES: NCMP000 suroestes NCMS000 suroeste abismo__n
+
+APERTIUM: suspense FORMES: NCMP000 suspenses NCMS000 suspense abismo__n
+SOFTCATA: suspense FORMES: NCMP000 suspensees NCMP000 suspenses NCMS000 suspense club__n
+
+APERTIUM: suéter FORMES: NCMP000 suéters NCMS000 suéter abismo__n
+SOFTCATA: suéter FORMES: NCMP000 suéteres NCMS000 suéter abril__n
+
+APERTIUM: t FORMES: NCFN000 t dosis__n
+SOFTCATA: t FORMES: NCFS000 t BBC__n
+
+APERTIUM: tacógrafo FORMES: NCFP000 tacógrafas NCFS000 tacógrafa NCMP000 tacógrafos NCMS000 tacógrafo abogad/o__n
+SOFTCATA: tacógrafo FORMES: NCMP000 tacógrafos NCMS000 tacógrafo abismo__n
+
+APERTIUM: tecnígrafo FORMES: NCFP000 tecnígrafas NCFS000 tecnígrafa NCMP000 tecnígrafos NCMS000 tecnígrafo abogad/o__n
+SOFTCATA: tecnígrafo FORMES: NCMP000 tecnígrafos NCMS000 tecnígrafo abismo__n
+
+APERTIUM: tenaza FORMES: NCFP000 tenazas NCFS000 tenaza abeja__n
+SOFTCATA: tenaza FORMES: NCFS000 tenaza BBC__n
+
+APERTIUM: tenis FORMES: NCMN000 tenis campus__n
+SOFTCATA: tenis FORMES: NCMS000 tenis BBVA__n
+
+APERTIUM: terminal FORMES: NCFP000 terminales NCFS000 terminal accesibilidad__n
+SOFTCATA: terminal FORMES: NCCP000 terminales NCCS000 terminal albañil__n
+
+APERTIUM: ticket FORMES: NCMP000 tickets NCMS000 ticket abismo__n
+SOFTCATA: ticket FORMES: NCMP000 ticketes NCMP000 tickets NCMS000 ticket club__n
+
+APERTIUM: tigre FORMES: NCFP000 tigresas NCFS000 tigresa NCMP000 tigres NCMS000 tigre alcalde__n
+SOFTCATA: tigre FORMES: NCMP000 tigres NCMS000 tigre abismo__n
+
+APERTIUM: timonel FORMES: NCCP000 timoneles NCCS000 timonel albañil__n
+SOFTCATA: timonel FORMES: NCMP000 timoneles NCMS000 timonel abril__n
+
+APERTIUM: titular FORMES: NCCP000 titulares NCCS000 titular albañil__n
+SOFTCATA: titular FORMES: NCMP000 titulares NCMS000 titular abril__n
+
+APERTIUM: titán FORMES: NCMP000 titánes NCMS000 titán abril__n
+SOFTCATA: titán FORMES: NCMP000 titanes NCMS000 titán adem/án__n
+
+APERTIUM: todopoderoso FORMES: NCMS000 todopoderoso atletismo__n
+SOFTCATA: todopoderoso FORMES: NCMP000 todopoderosos NCMS000 todopoderoso abismo__n
+
+APERTIUM: tonel FORMES: NCMP000 tonels NCMS000 tonel abismo__n
+SOFTCATA: tonel FORMES: NCMP000 toneles NCMS000 tonel abril__n
+
+APERTIUM: transportista FORMES: NCCP000 transportistas NCCS000 transportista accionista__n
+SOFTCATA: transportista FORMES: NCMP000 transportistas NCMS000 transportista abismo__n
+
+APERTIUM: traspié FORMES: NCMP000 traspies NCMS000 traspié traspi/é__n
+SOFTCATA: traspié FORMES: NCMP000 traspiés NCMS000 traspié abismo__n
+
+APERTIUM: tronzador FORMES: NCMP000 tronzadores NCMS000 tronzador abril__n
+SOFTCATA: tronzador FORMES: NCFP000 tronzadoras NCFS000 tronzadora NCMP000 tronzadores NCMS000 tronzador señor__n
+
+APERTIUM: turbo FORMES: NCMP000 turbos NCMS000 turbo abismo__n
+SOFTCATA: turbo FORMES: NCMS000 turbo BBVA__n
+
+APERTIUM: télex FORMES: NCMN000 télex campus__n
+SOFTCATA: télex FORMES: NCMP000 télexes NCMS000 télex abril__n
+
+APERTIUM: ultramarinos FORMES: NCMP000 ultramarinos alrededores__n
+SOFTCATA: ultramarinos FORMES: NCMN000 ultramarinos IRPF__n
+
+APERTIUM: urbano FORMES: NCFP000 urbanas NCFS000 urbana NCMP000 urbanos NCMS000 urbano abogad/o__n
+SOFTCATA: urbano FORMES: NCMP000 urbanos NCMS000 urbano abismo__n
+
+APERTIUM: usucapión FORMES: NCMP000 usucapiones NCMS000 usucapión aluvi/ón__n
+SOFTCATA: usucapión FORMES: NCFP000 usucapiones NCFS000 usucapión acci/ón__n
+
+APERTIUM: verdugo FORMES: NCMP000 verdugos NCMS000 verdugo abismo__n
+SOFTCATA: verdugo FORMES: NCCP000 verdugos NCCS000 verdugo accionista__n
+
+APERTIUM: verificador FORMES: NCFP000 verificadoras NCFS000 verificadora NCMP000 verificadores NCMS000 verificador señor__n
+SOFTCATA: verificador FORMES: NCMP000 verificadores NCMS000 verificador abril__n
+
+APERTIUM: vertiente FORMES: NCFP000 vertientes NCFS000 vertiente abeja__n
+SOFTCATA: vertiente FORMES: NCCP000 vertientes NCCS000 vertiente accionista__n
+
+APERTIUM: vicario FORMES: NCMP000 vicarios NCMS000 vicario abismo__n
+SOFTCATA: vicario FORMES: NCFP000 vicarias NCFS000 vicaria NCMP000 vicarios NCMS000 vicario abogad/o__n
+
+APERTIUM: violeta FORMES: NCFP000 violetas NCFS000 violeta abeja__n
+SOFTCATA: violeta FORMES: NCCP000 violetas NCCS000 violeta accionista__n
+
+APERTIUM: virgo FORMES: NCCN000 virgo gilipollas__n
+SOFTCATA: virgo FORMES: NCCP000 virgos NCCS000 virgo accionista__n
+
+APERTIUM: visibilidad FORMES: NCFP000 visibilidads NCFS000 visibilidad abeja__n
+SOFTCATA: visibilidad FORMES: NCFP000 visibilidades NCFS000 visibilidad accesibilidad__n
+
+APERTIUM: visualizador FORMES: NCFP000 visualizadoras NCFS000 visualizadora NCMP000 visualizadores NCMS000 visualizador señor__n
+SOFTCATA: visualizador FORMES: NCMP000 visualizadores NCMS000 visualizador abril__n
+
+APERTIUM: vizconde FORMES: NCFP000 vizcondesas NCFS000 vizcondesa NCMP000 vizcondes NCMS000 vizconde alcalde__n
+SOFTCATA: vizconde FORMES: NCMP000 vizcondes NCMS000 vizconde abismo__n
+
+APERTIUM: vocal FORMES: NCFP000 vocales NCFS000 vocal accesibilidad__n
+SOFTCATA: vocal FORMES: NCCP000 vocales NCCS000 vocal albañil__n
+
+APERTIUM: vodka FORMES: NCMP000 vodkas NCMS000 vodka abismo__n
+SOFTCATA: vodka FORMES: NCCP000 vodkas NCCS000 vodka accionista__n
+
+APERTIUM: voladizo FORMES: NCFP000 voladizas NCFS000 voladiza NCMP000 voladizos NCMS000 voladizo abogad/o__n
+SOFTCATA: voladizo FORMES: NCMP000 voladizos NCMS000 voladizo abismo__n
+
+APERTIUM: voleibol FORMES: NCMS000 voleibol atletismo__n
+SOFTCATA: voleibol FORMES: NCMP000 voleiboles NCMS000 voleibol abril__n
+
+APERTIUM: vudú FORMES: NCMP000 vudús NCMS000 vudú abismo__n
+SOFTCATA: vudú FORMES: NCMP000 vudúes NCMP000 vudús NCMS000 vudú club__n
+
+APERTIUM: waterpolo FORMES: NCMS000 waterpolo atletismo__n
+SOFTCATA: waterpolo FORMES: NCMP000 waterpolos NCMS000 waterpolo abismo__n
+
+APERTIUM: yayo FORMES: NCFP000 yayas NCFS000 yaya NCMP000 yayos NCMS000 yayo abogad/o__n
+SOFTCATA: yayo FORMES: NCMP000 yayos NCMS000 yayo abismo__n
+
+APERTIUM: yudo FORMES: NCMS000 yudo atletismo__n
+SOFTCATA: yudo FORMES: NCMP000 yudos NCMS000 yudo abismo__n
+
+APERTIUM: zancudo FORMES: NCFP000 zancudas NCFS000 zancuda NCMP000 zancudos NCMS000 zancudo abogad/o__n
+SOFTCATA: zancudo FORMES: NCMP000 zancudos NCMS000 zancudo abismo__n
+
+APERTIUM: zascandil FORMES: NCCP000 zascandiles NCCS000 zascandil albañil__n
+SOFTCATA: zascandil FORMES: NCMP000 zascandiles NCMS000 zascandil abril__n
+
+APERTIUM: zinc FORMES: NCMP000 zincs NCMS000 zinc abismo__n
+SOFTCATA: zinc FORMES: NCMS000 zinc BBVA__n
+
+APERTIUM: ánfora FORMES: NCMP000 ánforas NCMS000 ánfora abismo__n
+SOFTCATA: ánfora FORMES: NCFP000 ánforas NCFS000 ánfora abeja__n
+
+APERTIUM: ántrax FORMES: NCMN000 ántrax campus__n
+SOFTCATA: ántrax FORMES: NCMP000 ántraxes NCMS000 ántrax abril__n
+
+APERTIUM: ítem FORMES: NCMP000 ítems NCMS000 ítem abismo__n
+SOFTCATA: ítem FORMES: NCMP000 ítemes NCMP000 ítems NCMS000 ítem club__n
+
+APERTIUM: óptico FORMES: NCFP000 ópticas NCFS000 óptica NCMP000 ópticos NCMS000 óptico abogad/o__n
+SOFTCATA: óptico FORMES: NCMP000 ópticos NCMS000 óptico abismo__n
+

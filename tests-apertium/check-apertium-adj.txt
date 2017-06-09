@@ -1,0 +1,84 @@
+APERTIUM: afro FORMES: AQ0CN0 afro multimedia__adj
+SOFTCATA: afro FORMES: AQ0FP0 afras AQ0FS0 afra AQ0MP0 afros AQ0MS0 afro absolut/o__adj
+
+APERTIUM: bailarín FORMES: AQ0FP0 bailarínas AQ0FS0 bailarína AQ0MP0 bailarínes AQ0MS0 bailarín abrumador__adj
+SOFTCATA: bailarín FORMES: AQ0FP0 bailarinas AQ0FS0 bailarina AQ0MP0 bailarines AQ0MS0 bailarín mallorqu/ín__adj
+
+APERTIUM: clarisa FORMES: AQ0FP0 clarisas AQ0FS0 clarisa clarisa__adj
+SOFTCATA: clarisa FORMES: AQ0CP0 clarisas AQ0CS0 clarisa abundante__adj
+
+APERTIUM: colegial FORMES: AQ0CP0 colegiales AQ0CS0 colegial abdominal__adj
+SOFTCATA: colegial FORMES: AQ0FP0 colegialas AQ0FS0 colegiala AQ0MP0 colegiales AQ0MS0 colegial abrumador__adj
+
+APERTIUM: cutre FORMES: AQ0CP0 cutrees AQ0CS0 cutre abdominal__adj
+SOFTCATA: cutre FORMES: AQ0CP0 cutres AQ0CS0 cutre abundante__adj
+
+APERTIUM: desengrasante FORMES: AQ0CP0 desengrasantees AQ0CS0 desengrasante abdominal__adj
+SOFTCATA: desengrasante FORMES: AQ0CP0 desengrasantes AQ0CS0 desengrasante abundante__adj
+
+APERTIUM: durmiente FORMES: AQ0CP0 durmientees AQ0CS0 durmiente abdominal__adj
+SOFTCATA: durmiente FORMES: AQ0CP0 durmientes AQ0CS0 durmiente abundante__adj
+
+APERTIUM: electromotriz FORMES: AQ0CP0 electromotrices AQ0CS0 electromotriz atro/z__adj
+SOFTCATA: electromotriz FORMES: AQ0FP0 electromotrizas AQ0FS0 electromotriza AQ0MP0 electromotrices AQ0MS0 electromotriz andalu/z__adj
+
+APERTIUM: estéreo FORMES: AQ0CP0 estéreos AQ0CS0 estéreo abundante__adj
+SOFTCATA: estéreo FORMES: AQ0FP0 estéreas AQ0FS0 estérea AQ0MP0 estéreos AQ0MS0 estéreo absolut/o__adj
+
+APERTIUM: exprés FORMES: AQ0CN0 exprés multimedia__adj
+SOFTCATA: exprés FORMES: AQ0MS0 exprés primer__adj
+
+APERTIUM: extra FORMES: AQ0CN0 extra multimedia__adj
+SOFTCATA: extra FORMES: AQ0CP0 extras AQ0CS0 extra abundante__adj
+
+APERTIUM: fetén FORMES: AQ0CP0 fetenes AQ0CS0 fetén fet/én__adj
+SOFTCATA: fetén FORMES: AQ0CN0 fetén multimedia__adj
+
+APERTIUM: gobernante FORMES: AQ0FP0 gobernantas AQ0FS0 gobernanta AQ0MP0 gobernantes AQ0MS0 gobernante gobernant/e__adj
+SOFTCATA: gobernante FORMES: AQ0CP0 gobernantes AQ0CS0 gobernante abundante__adj
+
+APERTIUM: lionés FORMES: AQ0FP0 lionesas AQ0FS0 lionesa AQ0MP0 lioneses AQ0MS0 lionés aragon/és__adj
+SOFTCATA: lionés FORMES: AQ0CP0 lioneses AQ0CS0 lionés cort/és__adj
+
+APERTIUM: macro FORMES: AQ0MS0 macro primer__adj
+SOFTCATA: macro FORMES: AQ0CN0 macro multimedia__adj
+
+APERTIUM: mal FORMES: AQ0FP0 malas AQ0FS0 mala AQ0MP0 malos AQ0MS0 mal mal__adj
+SOFTCATA: mal FORMES: AQ0CP0 males AQ0CS0 mal abdominal__adj
+
+APERTIUM: multifuncional FORMES: AQ0CP0 multifuncionals AQ0CS0 multifuncional abundante__adj
+SOFTCATA: multifuncional FORMES: AQ0CP0 multifuncionales AQ0CS0 multifuncional abdominal__adj
+
+APERTIUM: multimedia FORMES: AQ0CN0 multimedia multimedia__adj
+SOFTCATA: multimedia FORMES: AQ0CS0 multimedia gran__adj
+
+APERTIUM: parturienta FORMES: AQ0CP0 parturientas AQ0CS0 parturienta abundante__adj
+SOFTCATA: parturienta FORMES: AQ0FP0 parturientas AQ0FS0 parturienta clarisa__adj
+
+APERTIUM: piloto FORMES: AQ0CP0 pilotos AQ0CS0 piloto abundante__adj
+SOFTCATA: piloto FORMES: AQ0FP0 pilotas AQ0FS0 pilota AQ0MP0 pilotos AQ0MS0 piloto absolut/o__adj
+
+APERTIUM: pleistoceno FORMES: AQ0FP0 pleistocenas AQ0FS0 pleistocena AQ0MP0 pleistocenos AQ0MS0 pleistoceno absolut/o__adj
+SOFTCATA: pleistoceno FORMES: AQ0FP0 pleistocenoas AQ0FS0 pleistocenoa AQ0MP0 pleistocenoos AQ0MS0 pleistoceno mal__adj
+
+APERTIUM: plurifuncional FORMES: AQ0CP0 plurifuncionals AQ0CS0 plurifuncional abundante__adj
+SOFTCATA: plurifuncional FORMES: AQ0CP0 plurifuncionales AQ0CS0 plurifuncional abdominal__adj
+
+APERTIUM: postal FORMES: AQ0CP0 postals AQ0CS0 postal abundante__adj
+SOFTCATA: postal FORMES: AQ0CP0 postales AQ0CS0 postal abdominal__adj
+
+APERTIUM: puntuable FORMES: AQ0CP0 puntuablees AQ0CS0 puntuable abdominal__adj
+SOFTCATA: puntuable FORMES: AQ0CP0 puntuables AQ0CS0 puntuable abundante__adj
+
+APERTIUM: ultra FORMES: AQ0CN0 ultra multimedia__adj
+SOFTCATA: ultra FORMES: AQ0CP0 ultras AQ0CS0 ultra abundante__adj
+
+APERTIUM: ultravioleta FORMES: AQ0CN0 ultravioleta multimedia__adj
+SOFTCATA: ultravioleta FORMES: AQ0CP0 ultravioletas AQ0CS0 ultravioleta abundante__adj
+
+APERTIUM: vano FORMES: AQ0FP0 vanoas AQ0FS0 vanoa AQ0MP0 vanoos AQ0MS0 vanoo absolut/o__adj
+SOFTCATA: vano FORMES: AQ0FP0 vanas AQ0FS0 vana AQ0MP0 vanos AQ0MS0 vano absolut/o__adj
+
+APERTIUM: web FORMES: AQ0CP0 webes AQ0CS0 web abdominal__adj
+SOFTCATA: web FORMES: AQ0CN0 web multimedia__adj
+
