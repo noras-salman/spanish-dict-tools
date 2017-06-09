@@ -72,9 +72,9 @@ for my $linia_regla (@regles) {
 }
 $regles_unalinia{$prevnomregla} = $linia;
 
-for my $nomregla (keys %regles_unalinia) {
-	print "$nomregla $regles_unalinia{$nomregla}\n";
-}
+#for my $nomregla (keys %regles_unalinia) {
+#	print "$nomregla $regles_unalinia{$nomregla}\n";
+#}
 
 my @adjectius_lt;
 open($fh,  "<:encoding(UTF-8)", $dict_entrada );
